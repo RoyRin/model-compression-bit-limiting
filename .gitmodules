@@ -1,0 +1,3 @@
+[submodule "QA-compression-webapp-demo"]
+	path = QA-compression-webapp-demo
+	url = https://github.com/RoyRin/QA-compression-webapp-demo.git

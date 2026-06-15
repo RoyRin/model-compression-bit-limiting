@@ -1,0 +1,15 @@
+compression:
+  # Number of bits used for the arithmetic coding precision - Typical range: 32-64
+  bit_precision: 59
+
+  # Number of bits used to encode the count of tokens in each block
+  # This determines the maximum block size: 2^bits_for_encoding_count - 1
+  # Typical range: 5-8
+  bits_for_encoding_count: 5
+
+  # Minimum probability threshold to prevent numerical underflow
+  # Typical range: 1e-10 to 1e-8
+  min_prob: 1.0e-7
+
+  # Temperature for softmax scaling during encoding/decoding - 1.0 = no scaling
+  temperature: 0.7

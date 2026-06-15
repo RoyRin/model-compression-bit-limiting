@@ -1,0 +1,9 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "category": "math",
+      "question": "Derive the formula for the volume of a torus using integration, explaining each step of the process including the setup of the integral using either the disk/washer method or shells."
+    }
+  ]
+}

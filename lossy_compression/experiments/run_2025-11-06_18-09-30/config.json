@@ -1,0 +1,13 @@
+{
+  "experiment_name": "run_2025-11-06_18-09-30",
+  "timestamp": "2025-11-06_18-09-30",
+  "max_iterations": 5,
+  "quality_threshold": 9,
+  "llm_model": "claude-opus-4-1-20250805",
+  "slm_model": "claude-haiku-4-5-20251001",
+  "question_model": "claude-sonnet-4-5-20250929",
+  "use_local_slm": false,
+  "open_ended_guidance": false,
+  "use_batch": false,
+  "enable_parallel": false
+}

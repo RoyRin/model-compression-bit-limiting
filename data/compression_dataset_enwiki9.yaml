@@ -1,0 +1,1887 @@
+metadata:
+  created_at: '2025-11-21T01:02:17.663700'
+  source: enwiki9
+  dataset_url: http://download.wikipedia.org/enwiki/20060303/enwiki-20060303-pages-articles.xml.bz2
+  description: enwiki9 (first 1GB of Wikipedia 2006) - standard compression benchmark
+  total_samples: 50
+  prompt_source: enwiki9
+  generation_backend: wikipedia_extract
+  chunk_size_target: varies
+samples:
+- prompt_id: 0
+  prompt: 'http://en.wikipedia.org/wiki/Main_Page #REDIRECT American Samoa #REDIRECT
+    Applied ethics #REDIRECT Accessible_computing #REDIRECT Ada programming language
+    /* Anarchist Communism */ too many brackets ''''''Anarchism'''''' originated as
+    a term of abuse first used against early working class radicals including the
+    Diggers of the English Revolution and the ''''sans-culottes'''' of the French
+    Revolution.[http://uk.encarta.msn.com/encyclopedia_761568770/Anarchism.html] Whilst
+    the term is still used in a pejorative way to describe ''''&quot;any act that
+    used violent means to destroy the organization of society&quot;''''&lt;ref&gt;[http://www.cas.sc.edu/socy/faculty/deflem/zhistorintpolency.html
+    History of International'
+  generated_text: 'Police Cooperation], from the final protocols of the &quot;International
+    Conference of Rome for the Social Defense Against Anarchists&quot;, 1898&lt;/ref&gt;,
+    it has also been taken up as a positive label by self-defined anarchists. The
+    word ''''''anarchism'''''' is derived from the Greek ''''&amp;#945;&amp;#957;&amp;#945;&amp;#961;&amp;#967;&amp;#943;&amp;#945;''''
+    (&quot;without archons (ruler, chief, king)&quot;). Anarchism as a political philosophy,
+    is the belief that ''''rulers'''' are unnecessary and should be abolished, although
+    there are differing interpretations of what this means. Anarchism also refers
+    to related social movements) that advocate the elimination of authoritarian institutions,
+    particularly the state.&lt;ref&gt;[http://en.wikiquote.org/wiki/Definitions_of_anarchism
+    Definitions of anarchism] on Wikiquote, accessed 2006&lt;/ref&gt; The word &quot;anarchy,&quot;
+    as most anarchists use it, does not imply chaos, nihilism, or anomie, but rather
+    a harmonious anti-authoritarian society. In place of what are regarded as authoritarian
+    political structures and coercive economic institutions, anarchists advocate social
+    relations based upon voluntary association of autonomous individuals, mutual aid,
+    and self-governance. While anarchism is most easily defined by what it is against,
+    anarchists also offer positive visions of what they believe to be a truly free
+    society. However, ideas about how an anarchist society might work vary considerably,
+    especially with respect to economics; there is also disagreement about how a free
+    society might be brought about. == Origins and predecessors == Kropotkin, and
+    others, argue that before recorded history, human society was organized on anarchist
+    principles.&lt;ref&gt;Kropotkin, Peter. ''''&quot;Mutual Aid: A Factor of Evolution&quot;'''',
+    1902.&lt;/ref&gt; Most anthropologists follow Kropotkin and Engels in believing
+    that hunter-gatherer bands were egalitarian and lacked division of labour, accumulated
+    wealth, or decreed law, and had equal access to resources.&lt;ref&gt;Engels, Freidrich.
+    ''''&quot;[http://www.marxists.org/archive/marx/works/1884/origin-family/index.htm
+    Origins of the Family, Private Property, and the State]&quot;'''', 1884.&lt;/ref&gt;
+    Anarchists including the The Anarchy Organisation and Rothbard find anarchist
+    attitudes in Taoism from Ancient China.&lt;ref&gt;The Anarchy Organization (Toronto).
+    ''''Taoism and Anarchy.'''' April 14 2002 [http://www.toxicpop.co.uk/library/taoism.htm
+    Toxicpop mirror] [http://www.geocities.com/SoHo/5705/taoan.html Vanity site mirror]&lt;/ref&gt;&lt;ref&gt;Rothbard,
+    Murray.'
+  max_new_tokens: 302
+  source: enwiki9
+  chunk_id: 0
+- prompt_id: 1
+  prompt: '''''&quot;[http://www.lewrockwell.com/rothbard/ancient-chinese.html The
+    Ancient Chinese Libertarian Tradition]&quot;'''', an extract from ''''&quot;[http://www.mises.org/journals/jls/9_2/9_2_3.pdf
+    Concepts of the Role of Intellectuals in Social Change Toward Laissez Faire]&quot;'''',
+    The Journal of Libertarian Studies, 9 (2) Fall 1990.&lt;/ref&gt; Kropotkin found
+    similar ideas in stoic Zeno of Citium. According to Kropotkin, Zeno &quot;repudiated
+    the omnipotence of the state, its intervention and regimentation, and proclaimed
+    the sovereignty of the moral law of the individual&quot;. &lt;ref&gt;[http://www.blackcrayon.com/page.jsp/library/britt1910.html
+    Anarchism], written by Peter Kropotkin, from Encyclopaedia Britannica, 1910]&lt;/ref&gt;
+    The Anabaptists of 16th'
+  generated_text: "century Europe are sometimes considered to be religious forerunners\
+    \ of modern anarchism. Bertrand Russell, in his ''History of Western Philosophy'',\
+    \ writes that the Anabaptists &quot;repudiated all law, since they held that the\
+    \ good man will be guided at every moment by the Holy Spirit...[f]rom this premise\
+    \ they arrive at communism....&quot;&lt;ref&gt;Russell, Bertrand. ''&quot;Ancient\
+    \ philosophy&quot;'' in ''A History of Western Philosophy, and its connection\
+    \ with political and social circumstances from the earliest times to the present\
+    \ day'', 1945.&lt;/ref&gt; The Diggers or &quot;True Levellers&quot; were an early\
+    \ communistic movement during the time of the English Civil War, and are considered\
+    \ by some as forerunners of modern anarchism.&lt;ref&gt;[http://www.zpub.com/notes/aan-hist.html\
+    \ An Anarchist Timeline], from Encyclopaedia Britannica, 1994.&lt;/ref&gt; In\
+    \ the modern era, the first to use the term to mean something other than chaos\
+    \ was Louis-Armand, Baron de Lahontan in his ''Nouveaux voyages dans l'Am\xE9\
+    rique septentrionale'', (1703), where he described the indigenous American society,\
+    \ which had no state, laws, prisons, priests, or private property, as being in\
+    \ anarchy&lt;ref&gt;[http://etext.lib.virginia.edu/cgi-local/DHI/dhi.cgi?id=dv1-12\
+    \ Dictionary of the History of Ideas - ANARCHISM]&lt;/ref&gt;. Russell Means,\
+    \ a libertarian and leader in the American Indian Movement, has repeatedly stated\
+    \ that he is &quot;an anarchist, and so are all [his] ancestors.&quot; In 1793,\
+    \ in the thick of the French Revolution, William Godwin published ''An Enquiry\
+    \ Concerning Political Justice'' [http://web.bilkent.edu.tr/Online/www.english.upenn.edu/jlynch/Frank/Godwin/pjtp.html].\
+    \ Although Godwin did not use the word ''anarchism'', many later anarchists have\
+    \ regarded this book as the first major anarchist text, and Godwin as the &quot;founder\
+    \ of philosophical anarchism.&quot; But at this point no anarchist movement yet\
+    \ existed, and the term ''anarchiste'' was known mainly as an insult hurled by\
+    \ the bourgeois Girondins at more radical elements in the French revolution. ==The\
+    \ first self-labelled anarchist== It is commonly held that it wasn't until Pierre-Joseph\
+    \ Proudhon published ''What is Property?'' in 1840 that the term &quot;anarchist&quot;\
+    \ was adopted as a self-description. It is for this reason that some claim Proudhon\
+    \ as the founder of modern anarchist theory."
+  max_new_tokens: 318
+  source: enwiki9
+  chunk_id: 1
+- prompt_id: 2
+  prompt: "In What is Property? Proudhon answers with the famous accusation &quot;Property\
+    \ is theft.&quot; In this work he opposed the institution of decreed &quot;property&quot;\
+    \ (propri\xE9t\xE9), where owners have complete rights to &quot;use and abuse&quot;\
+    \ their property as they wish, such as exploiting workers for profit.&lt;ref name=&quot;proudhon-prop&quot;&gt;Proudhon,\
+    \ Pierre-Joseph. ''&quot;[http://www.marxists.org/reference/subject/economics/proudhon/property/ch03.htm\
+    \ Chapter 3. Labour as the efficient cause of the domain of property]&quot;''\
+    \ from ''&quot;What is Property?&quot;'', 1840&lt;/ref&gt; In its place Proudhon\
+    \ supported what he called 'possession' - individuals can"
+  generated_text: 'have limited rights to use resources, capital and goods in accordance
+    with principles of equality and justice. Proudhon''s vision of anarchy, which
+    he called mutualism (mutuellisme), involved an exchange economy where individuals
+    and groups could trade the products of their labor using ''''labor notes'''' which
+    represented the amount of working time involved in production. This would ensure
+    that no one would profit from the labor of others. Workers could freely join together
+    in co-operative workshops. An interest-free bank would be set up to provide everyone
+    with access to the means of production. Proudhon''s ideas were influential within
+    French working class movements, and his followers were active in the Revolution
+    of 1848 in France. Proudhon''s philosophy of property is complex: it was developed
+    in a number of works over his lifetime, and there are differing interpretations
+    of some of his ideas. ''''For more detailed discussion see here.'''' ==Max Stirner''s
+    Egoism== In his ''''The Ego and Its Own'''' Stirner argued that most commonly
+    accepted social institutions - including the notion of State, property as a right,
+    natural rights in general, and the very notion of society - were mere illusions
+    or ''''ghosts'''' in the mind, saying of society that &quot;the individuals are
+    its reality.&quot; He advocated egoism and a form of amoralism, in which individuals
+    would unite in ''associations of egoists'' only when it was in their self interest
+    to do so. For him, property simply comes about through might: &quot;Whoever knows
+    how to take, to defend, the thing, to him belongs property.&quot; And, &quot;What
+    I have in my power, that is my own. So long as I assert myself as holder, I am
+    the proprietor of the thing.&quot; Stirner never called himself an anarchist -
+    he accepted only the label ''egoist''. Nevertheless, his ideas were influential
+    on many individualistically-inclined anarchists, although interpretations of his
+    thought are diverse.'
+  max_new_tokens: 306
+  source: enwiki9
+  chunk_id: 2
+- prompt_id: 3
+  prompt: ==American individualist anarchism== In 1825 Josiah Warren had participated
+    in a communitarian experiment headed by Robert Owen called New Harmony, which
+    failed in a few years amidst much internal conflict. Warren blamed the community's
+    failure on a lack of individual sovereignty and a lack of private property. Warren
+    proceeded to organise experimenal anarchist communities which respected what he
+    called &quot;the sovereignty of the individual&quot; at Utopia and Modern Times.
+    In 1833 Warren wrote and published ''The Peaceful
+  generated_text: 'Revolutionist'''', which some have noted to be the first anarchist
+    periodical ever published. Benjamin Tucker says that Warren &quot;was the first
+    man to expound and formulate the doctrine now known as Anarchism.&quot; (''''Liberty''''
+    XIV (December, 1900):1) Benjamin Tucker became interested in anarchism through
+    meeting Josiah Warren and William B. Greene. He edited and published ''''Liberty''''
+    from August 1881 to April 1908; it is widely considered to be the finest individualist-anarchist
+    periodical ever issued in the English language. Tucker''s conception of individualist
+    anarchism incorporated the ideas of a variety of theorists: Greene''s ideas on
+    mutual banking; Warren''s ideas on cost as the limit of price (a heterodox variety
+    of labour theory of value); Proudhon''s market anarchism; Max Stirner''s egoism;
+    and, Herbert Spencer''s &quot;law of equal freedom&quot;. Tucker strongly supported
+    the individual''s right to own the product of his or her labour as &quot;private
+    property&quot;, and believed in a &lt;ref name=&quot;tucker-pay&quot;&gt;Tucker,
+    Benjamin. ''''&quot;[http://www.blackcrayon.com/page.jsp/library/tucker/tucker37.htm
+    Labor and Its Pay]&quot;'''' Individual Liberty: Selections From the Writings
+    of Benjamin R. Tucker, Vanguard Press, New York, 1926, Kraus Reprint Co., Millwood,
+    NY, 1973.&lt;/ref&gt;market economy for trading this property. He argued that
+    in a truly free market system without the state, the abundance of competition
+    would eliminate profits and ensure that all workers received the full value of
+    their labor. Other 19th century individualists included Lysander Spooner, Stephen
+    Pearl Andrews, and Victor Yarros. ==The First International== In Europe, harsh
+    reaction followed the revolutions of 1848. Twenty years later in 1864 the International
+    Workingmen''s Association, sometimes called the ''First International'', united
+    some diverse European revolutionary currents including anarchism. Due to its genuine
+    links to active workers movements the International became signficiant. From the
+    start Karl Marx was a leading figure in the International: he was elected to every
+    succeeding General Council of the association. The first objections to Marx came
+    from the Mutualists who opposed communism and statism.'
+  max_new_tokens: 309
+  source: enwiki9
+  chunk_id: 3
+- prompt_id: 4
+  prompt: Shortly after Mikhail Bakunin and his followers joined in 1868, the First
+    International became polarised into two camps, with Marx and Bakunin as their
+    respective figureheads. The clearest difference between the camps was over strategy.
+    The anarchists around Bakunin favoured (in Kropotkin's words) &quot;direct economical
+    struggle against capitalism, without interfering in the political parliamentary
+    agitation.&quot; At that time Marx and his followers focused on parliamentary
+    activity. Bakunin characterised Marx's ideas as authoritarian, and predicted that
+    if
+  generated_text: "a Marxist party gained to power its leaders would end up as bad\
+    \ as the ruling class they had fought against.&lt;ref&gt;Bakunin, Mikhail. ''&quot;[http://www.litencyc.com/php/adpage.php?id=1969\
+    \ Statism and Anarchy]&quot;''&lt;/ref&gt; In 1872 the conflict climaxed with\
+    \ a final split between the two groups at the Hague Congress. This is often cited\
+    \ as the origin of the conflict between anarchists and Marxists. From this moment\
+    \ the ''social democratic'' and ''libertarian'' currents of socialism had distinct\
+    \ organisations including rival 'internationals'. ==Anarchist Communism== Proudhon\
+    \ and Bakunin both opposed communism, associating it with statism. However, in\
+    \ the 1870s many anarchists moved away from Bakunin's economic thinking (called\
+    \ &quot;collectivism&quot;) and embraced communist concepts. Communists believed\
+    \ the means of production should be owned collectively, and that goods be distributed\
+    \ by need, not labor. [http://nefac.net/node/157] An early anarchist communist\
+    \ was Joseph D\xE9jacque, the first person to describe himself as &quot;libertarian&quot;.[http://recollectionbooks.com/bleed/Encyclopedia/DejacqueJoseph.htm]&lt;ref&gt;[http://joseph.dejacque.free.fr/ecrits/lettreapjp.htm\
+    \ De l'\xEAtre-humain m\xE2le et femelle - Lettre \xE0 P.J. Proudhon par Joseph\
+    \ D\xE9jacque] (in French)&lt;/ref&gt; Unlike Proudhon, he argued that &quot;it\
+    \ is not the product of his or her labor that the worker has a right to, but to\
+    \ the satisfaction of his or her needs, whatever may be their nature.&quot; He\
+    \ announced his ideas in his US published journal Le Libertaire (1858-1861). Peter\
+    \ Kropotkin, often seen as the most important theorist, outlined his economic\
+    \ ideas in The Conquest of Bread and Fields, Factories and Workshops. He felt\
+    \ co-operation is more beneficial than competition, illustrated in nature in Mutual\
+    \ Aid: A Factor of Evolution (1897). Subsequent anarchist communists include Emma\
+    \ Goldman and Alexander Berkman. Many in the anarcho-syndicalist movements (see\
+    \ below) saw anarchist communism as their objective. Isaac Puente's 1932 Comunismo\
+    \ Libertario was adopted by the Spanish CNT as its manifesto for a post-revolutionary\
+    \ society. Some anarchists disliked merging communism with anarchism. Several\
+    \ individualist anarchists maintained that abolition of private property was not\
+    \ consistent with liberty."
+  max_new_tokens: 305
+  source: enwiki9
+  chunk_id: 4
+- prompt_id: 5
+  prompt: For example, Benjamin Tucker, whilst professing respect for Kropotkin and
+    publishing his work[http://www.zetetics.com/mac/libdebates/apx1pubs.html], described
+    communist anarchism as &quot;pseudo-anarchism&quot;.&lt;ref name=&quot;tucker-pay&quot;/&gt;
+    ==Propaganda of the deed== was an outspoken advocate of violence]] Anarchists
+    have often been portrayed as dangerous and violent, due mainly to a number of
+    high-profile violent acts, including riots, assassinations, insurrections, and
+    terrorism by some anarchists. Some revolutionaries of the late 19th century encouraged
+    acts of political violence, such as bombings and the assassinations of heads
+  generated_text: "of state to further anarchism. Such actions have sometimes been\
+    \ called 'propaganda by the deed'. One of the more outspoken advocates of this\
+    \ strategy was Johann Most, who said &quot;the existing system will be quickest\
+    \ and most radically overthrown by the annihilation of its exponents. Therefore,\
+    \ massacres of the enemies of the people must be set in motion.&quot; Most's preferred\
+    \ method of terrorism, dynamite, earned him the moniker &quot;Dynamost.&quot;\
+    \ However, there is no consensus on the legitimacy or utility of violence in general.\
+    \ Mikhail Bakunin and Errico Malatesta, for example, wrote of violence as a necessary\
+    \ and sometimes desirable force in revolutionary settings. But at the same time,\
+    \ they denounced acts of individual terrorism. (Malatesta in &quot;On Violence&quot;\
+    \ and Bakunin when he refuted Nechaev). Other anarchists, sometimes identified\
+    \ as pacifist anarchists, advocated complete nonviolence. Leo Tolstoy, whose philosophy\
+    \ is often viewed as a form of Christian anarchism ''(see below)'', was a notable\
+    \ exponent of nonviolent resistance. ==Anarchism in the labour movement== Anarcho-syndicalism\
+    \ was an early 20th century working class movement seeking to overthrow capitalism\
+    \ and the state to institute a worker controlled society. The movement pursued\
+    \ industrial actions, such as general strike, as a primary strategy. Many anarcho-syndicalists\
+    \ believed in anarchist communism, though not all communists believed in syndicalism.\
+    \ After the 1871 repression French anarchism reemerged, influencing the ''Bourses\
+    \ de Travails'' of autonomous workers groups and trade unions. From this movement\
+    \ the Conf\xE9d\xE9ration G\xE9n\xE9rale du Travail (General Confederation of\
+    \ Work, CGT) was formed in 1895 as the first major anarcho-syndicalist movement.\
+    \ Emile Pataud and Emile Pouget's writing for the CGT saw libertarian communism\
+    \ developing from a general strike. After 1914 the CGT moved away from anarcho-syndicalism\
+    \ due to the appeal of Bolshevism. French-style syndicalism was a significant\
+    \ movement in Europe prior to 1921, and remained a significant movement in Spain\
+    \ until the mid 1940s."
+  max_new_tokens: 304
+  source: enwiki9
+  chunk_id: 5
+- prompt_id: 6
+  prompt: "The Industrial Workers of the World (IWW), founded in 1905 in the US, espoused\
+    \ unionism and sought a general strike to usher in a stateless society. In 1923\
+    \ 100,000 members existed, with the support of up to 300,000. Though not explicitly\
+    \ anarchist, they organized by rank and file democracy, embodying a spirit of\
+    \ resistance that has inspired many Anglophone syndicalists. Spanish anarchist\
+    \ trade union federations were formed in the 1870's, 1900 and 1910. The most successful\
+    \ was the Confederaci\xF3n"
+  generated_text: "Nacional del Trabajo (National Confederation of Labour: CNT), founded\
+    \ in 1910. Prior to the 1940s the CNT was the major force in Spanish working class\
+    \ politics. With a membership of 1.58 million in 1934, the CNT played a major\
+    \ role in the Spanish Civil War. ''See also:'' Anarchism in Spain. Syndicalists\
+    \ like Ricardo Flores Mag\xF3n were key figures in the Mexican Revolution. Latin\
+    \ American anarchism was strongly influenced, extending to the Zapatista rebellion\
+    \ and the factory occupation movements in Argentina. In Berlin in 1922 the CNT\
+    \ was joined with the International Workers Association, an anarcho-syndicalist\
+    \ successor to the First International. Contemporary anarcho-syndicalism continues\
+    \ as a minor force in many socities; much smaller than in the 1910s, 20s and 30s.\
+    \ The largest organised anarchist movement today is in Spain, in the form of the\
+    \ Confederaci\xF3n General del Trabajo and the CNT. The CGT claims a paid-up membership\
+    \ of 60,000, and received over a million votes in Spanish syndical elections.\
+    \ Other active syndicalist movements include the US Workers Solidarity Alliance,\
+    \ and the UK Solidarity Federation. The revolutionary industrial unionist Industrial\
+    \ Workers of the World also exists, claiming 2,000 paid members. Contemporary\
+    \ critics of anarcho-syndicalism and revolutionary industrial unionism claim that\
+    \ they are workerist and fail to deal with economic life outside work. Post-leftist\
+    \ critics such as Bob Black claim anarcho-syndicalism advocates oppressive social\
+    \ structures, such as work and the workplace. Anarcho-syndicalists in general\
+    \ uphold principles of workers solidarity, direct action, and self-management.\
+    \ ==The Russian Revolution== The Russian Revolution of 1917 was a seismic event\
+    \ in the development of anarchism as a movement and as a philosophy. Anarchists\
+    \ participated alongside the Bolsheviks in both February and October revolutions,\
+    \ many anarchists initially supporting the Bolshevik coup. However the Bolsheviks\
+    \ soon turned against the anarchists and other left-wing opposition, a conflict\
+    \ which culminated in the 1918 Kronstadt rebellion. Anarchists in central Russia\
+    \ were imprisoned or driven underground, or joined the victorious Bolsheviks."
+  max_new_tokens: 317
+  source: enwiki9
+  chunk_id: 6
+- prompt_id: 7
+  prompt: In Ukraine anarchists fought in the civil war against both Whites and Bolsheviks
+    within the Makhnovshchina peasant army led by Nestor Makhno). Expelled American
+    anarchists Emma Goldman and Alexander Berkman before leaving Russia were amongst
+    those agitating in response to Bolshevik policy and the suppression of the Kronstadt
+    uprising. Both wrote classic accounts of their experiences in Russia, aiming to
+    expose the reality of Bolshevik control. For them, Bakunin's predictions about
+    the consequences of Marxist rule
+  generated_text: 'had proved all too true. The victory of the Bolsheviks in the October
+    Revolution and the resulting Russian Civil War did serious damage to anarchist
+    movements internationally. Many workers and activists saw Bolshevik success as
+    setting an example; Communist parties grew at the expense of anarchism and other
+    socialist movements. In France and the US for example, the major syndicalist movements
+    of the CGT and IWW began to realign themselves away from anarchism and towards
+    the Communist International. In Paris, the Dielo Truda group of Russian anarchist
+    exiles which included Nestor Makhno concluded that anarchists needed to develop
+    new forms of organisation in response to the structures of Bolshevism. Their 1926
+    manifesto, known as the Organisational Platform of the Libertarian Communists,
+    was supported by some communist anarchists, though opposed by many others. The
+    ''''Platform'''' continues to inspire some contemporary anarchist groups who believe
+    in an anarchist movement organised around its principles of ''theoretical unity'',
+    ''tactical unity'', ''collective responsibility'' and ''federalism''. Platformist
+    groups today include the Workers Solidarity Movement in Ireland, the UK''s Anarchist
+    Federation, and the late North Eastern Federation of Anarchist Communists in the
+    northeastern United States and bordering Canada. ==The fight against fascism==
+    , 1936. Members of the CNT construct armoured cars to fight against the fascists
+    in one of the collectivised factories.]] In the 1920s and 1930s the familiar dynamics
+    of anarchism''s conflict with the state were transformed by the rise of fascism
+    in Europe. In many cases, European anarchists faced difficult choices - should
+    they join in popular fronts with reformist democrats and Soviet-led Communists
+    against a common fascist enemy? Luigi Fabbri, an exile from Italian fascism, was
+    amongst those arguing that fascism was something different: :&quot;Fascism is
+    not just another form of government which, like all others, uses violence. It
+    is the most authoritarian and the most violent form of government imaginable.'
+  max_new_tokens: 307
+  source: enwiki9
+  chunk_id: 7
+- prompt_id: 8
+  prompt: It represents the utmost glorification of the theory and practice of the
+    principle of authority.&quot; In France, where the fascists came close to insurrection
+    in the February 1934 riots, anarchists divided over a 'united front' policy. [http://melior.univ-montp3.fr/ra_forum/en/people/berry_david/fascism_or_revolution.html]
+    In Spain, the CNT initially refused to join a popular front electoral alliance,
+    and abstention by CNT supporters led to a right wing election victory. But in
+    1936, the CNT changed its policy and anarchist votes helped bring the popular
+    front back to
+  generated_text: 'power. Months later, the ruling class responded with an attempted
+    coup, and the Spanish Civil War (1936-39) was underway. In reponse to the army
+    rebellion an anarchist-inspired movement of peasants and workers, supported by
+    armed militias, took control of the major city of Barcelona and of large areas
+    of rural Spain where they collectivized the land. But even before the eventual
+    fascist victory in 1939, the anarchists were losing ground in a bitter struggle
+    with the Stalinists. The CNT leadership often appeared confused and divided, with
+    some members controversially entering the government. Stalinist-led troops suppressed
+    the collectives, and persecuted both dissident marxists and anarchists. Since
+    the late 1970s anarchists have been involved in fighting the rise of neo-fascist
+    groups. In Germany and the United Kingdom some anarchists worked within militant
+    anti-fascist groups alongside members of the Marxist left. They advocated directly
+    combating fascists with physical force rather than relying on the state. Since
+    the late 1990s, a similar tendency has developed within US anarchism. ''''See
+    also: Anti-Racist Action (US), Anti-Fascist Action (UK), Antifa'''' ==Religious
+    anarchism== Most anarchist culture tends to be secular if not outright anti-religious.
+    However, the combination of religious social conscience, historical religiousity
+    amongst oppressed social classes, and the compatibility of some interpretations
+    of religious traditions with anarchism has resulted in religious anarchism. Christian
+    anarchists believe that there is no higher authority than God, and oppose earthly
+    authority such as government and established churches. They believe that Jesus''
+    teachings were clearly anarchistic, but were corrupted when &quot;Christianity&quot;
+    was declared the official religion of Rome. Christian anarchists, who follow Jesus''
+    directive to &quot;turn the other cheek&quot;, are strict pacifists. The most
+    famous advocate of Christian anarchism was Leo Tolstoy, author of ''''The Kingdom
+    of God is Within You'''', who called for a society based on compassion, nonviolent
+    principles and freedom. Christian anarchists tend to form experimental communities.
+    They also occasionally resist taxation. Many Christian anarchists are vegetarian
+    or vegan.'
+  max_new_tokens: 320
+  source: enwiki9
+  chunk_id: 8
+- prompt_id: 9
+  prompt: Christian anarchy can be said to have roots as old as the religion's birth,
+    as the early church exhibits many anarchistic tendencies, such as communal goods
+    and wealth. By aiming to obey utterly certain of the Bible's teachings certain
+    anabaptist groups of sixteenth century Europe attempted to emulate the early church's
+    social-economic organisation and philosophy by regarding it as the only social
+    structure capable of true obediance to Jesus' teachings, and utterly rejected
+    (in theory) all earthly hierarchies
+  generated_text: "and authority (and indeed non-anabaptists in general) and violence\
+    \ as ungodly. Such groups, for example the Hutterites, typically went from initially\
+    \ anarchistic beginnings to, as their movements stabalised, more authoritarian\
+    \ social models. Chinese Anarchism was most influential in the 1920s. Strands\
+    \ of Chinese anarchism included Tai-Xu's Buddhist Anarchism which was influenced\
+    \ by Tolstoy and the well-field system. Neopaganism, with its focus on the environment\
+    \ and equality, along with its often decentralized nature, has lead to a number\
+    \ of neopagan anarchists. One of the most prominent is Starhawk, who writes extensively\
+    \ about both spirituality and activism. ==Anarchism and feminism== Early French\
+    \ feminists such as Jenny d'H\xE9ricourt and Juliette Adam criticised the mysogyny\
+    \ in the anarchism of Proudhon during the 1850s. Anarcha-feminism is a kind of\
+    \ radical feminism that espouses the belief that patriarchy is a fundamental problem\
+    \ in society. While anarchist feminism has existed for more than a hundred years,\
+    \ its explicit formulation as ''anarcha-feminism'' dates back to the early 70s&lt;ref&gt;[http://www.anarcha.org/sallydarity/Anarcho-FeminismTwoStatements.htm\
+    \ Anarcho-Feminism - Two Statements - Who we are: An Anarcho-Feminist Manifesto]&lt;/ref&gt;,\
+    \ during the second-wave feminist movement. Anarcha-feminism, views patriarchy\
+    \ as the first manifestation of hierarchy in human history; thus, the first form\
+    \ of oppression occurred in the dominance of male over female. Anarcha-feminists\
+    \ then conclude that if feminists are against patriarchy, they must also be against\
+    \ all forms of hierarchy, and therefore must reject the authoritarian nature of\
+    \ the state and capitalism. Anarcho-primitivists see the creation of gender roles\
+    \ and patriarchy a creation of the start of civilization, and therefore consider\
+    \ primitivism to also be an anarchist school of thought that addresses feminist\
+    \ concerns. Eco-feminism is often considered a feminist variant of green anarchist\
+    \ feminist thought. Anarcha-feminism is most often associated with early 20th-century\
+    \ authors and theorists such as Emma Goldman and Voltairine de Cleyre, although\
+    \ even early first-wave feminist Mary Wollstonecraft held proto-anarchist views,\
+    \ and William Godwin is often considered a feminist anarchist precursor."
+  max_new_tokens: 315
+  source: enwiki9
+  chunk_id: 9
+- prompt_id: 10
+  prompt: 'It should be noted that Goldman and de Cleyre, though they both opposed
+    the state, had opposing philosophies, as de Cleyre explains: &quot;Miss Goldman
+    is a communist; I am an individualist. She wishes to destroy the right of property,
+    I wish to assert it. I make my war upon privilege and authority, whereby the right
+    of property, the true right in that which is proper to the individual,'
+  generated_text: 'is annihilated. She believes that co-operation would entirely supplant
+    competition; I hold that competition in one form or another will always exist,
+    and that it is highly desirable it should.&quot; In the Spanish Civil War, an
+    anarcha-feminist group, &quot;Free Women&quot;, organized to defend both anarchist
+    and feminist ideas. In the modern day anarchist movement, many anarchists, male
+    or female, consider themselves feminists, and anarcha-feminist ideas are growing.
+    The publishing of Quiet Rumors, an anarcha-feminist reader, has helped to spread
+    various kinds of anti-authoritarian and anarchist feminist ideas to the broader
+    movement. Wendy McElroy has popularized an individualist-anarchism take on feminism
+    in her books, articles, and individualist feminist website.&lt;ref&gt;[http://www.ifeminists.net
+    I-feminists.net]&lt;/ref&gt; ==Anarcho-capitalism== Anarcho-capitalism is a predominantly
+    United States-based theoretical tradition that desires a stateless society with
+    the economic system of free market capitalism. Unlike other branches of anarchism,
+    it does not oppose profit or capitalism. Consequently, most anarchists do not
+    recognise anarcho-capitalism as a form of anarchism. Murray Rothbard''s synthesis
+    of classical liberalism and Austrian economics was germinal for the development
+    of contemporary anarcho-capitalist theory. He defines anarcho-capitalism in terms
+    of the non-aggression principle, based on the concept of Natural Law. Competiting
+    theorists use egoism, utilitarianism (used by David Friedman), or contractarianism
+    (used by Jan Narveson). Some minarchists, such as Ayn Rand, Robert Nozick, and
+    Robert A. Heinlein, have influenced anarcho-capitalism. Some anarcho-capitalists,
+    along with some right-wing libertarian historians such as David Hart and Ralph
+    Raico, considered similar philosophies existing prior to Rothbard to be anarcho-capitalist,
+    such as those of Gustave de Molinari and Auberon Herbert &lt;ref&gt;Molinari,
+    Gustave de. ''''[http://praxeology.net/MR-GM-PS.htm Preface to &quot;The Production
+    of Security&quot;]'''', translated by J. Huston McCulloch, Occasional Papers Series
+    #2 (Richard M.'
+  max_new_tokens: 275
+  source: enwiki9
+  chunk_id: 10
+- prompt_id: 11
+  prompt: "Ebeling, Editor), New York: The Center for Libertarian Studies, May 1977.&lt;/ref&gt;&lt;ref\
+    \ name=&quot;david-hart&quot;/&gt;&lt;ref&gt;Raico, Ralph [http://www.mises.org/story/1787\
+    \ ''Authentic German Liberalism of the 19th Century''] Ecole Polytechnique, Centre\
+    \ de Recherce en Epistemologie Appliquee, Unit\xE9 associ\xE9e au CNRS (2004).&lt;/ref&gt;\
+    \ Opponents of anarcho-capitalists dispute these claims.&lt;ref&gt;McKay, Iain;\
+    \ Elkin, Gary; Neal, Dave ''et al'' [http://www.infoshop.org/faq/append11.html\
+    \ Replies to Some Errors and Distortions in Bryan Caplan's &quot;Anarchist Theory\
+    \ FAQ&quot; version 5.2] ''An Anarchist FAQ Version 11.2'' Accessed February 20,\
+    \ 2006.&lt;/ref&gt; The place of anarcho-capitalism within anarchism, and indeed"
+  generated_text: whether it is a form of anarchism at all, is highly controversial.
+    For more on this debate see ''Anarchism and anarcho-capitalism''. ==Anarchism
+    and the environment== Since the late 1970s anarchists in Anglophone and European
+    countries have been taking action for the natural environment. Eco-anarchists
+    or Green anarchists believe in deep ecology. This is a worldview that embraces
+    biodiversity and sustainability. Eco-anarchists often use direct action against
+    what they see as earth-destroying institutions. Of particular importance is the
+    Earth First! movement, that takes action such as tree sitting. Another important
+    component is ecofeminism, which sees the domination of nature as a metaphor for
+    the domination of women. Green anarchism also involves a critique of industrial
+    capitalism, and, for some green anarchists, civilization itself. Primitivism is
+    a predominantly Western philosophy that advocates a return to a pre-industrial
+    and usually pre-agricultural society. It develops a critique of industrial civilization.
+    In this critique technology and development have alienated people from the natural
+    world. This philosophy develops themes present in the political action of the
+    Luddites and the writings of Jean-Jacques Rousseau. Primitivism developed in the
+    context of the Reclaim the Streets, Earth First! and the Earth Liberation Front
+    movements. John Zerzan wrote that civilization &amp;mdash; not just the state
+    &amp;mdash; would need to fall for anarchy to be achieved. Anarcho-primitivists
+    point to the anti-authoritarian nature of many 'primitive' or hunter-gatherer
+    societies throughout the world's history, as examples of anarchist societies.
+    ==Other branches and offshoots== Anarchism generates many eclectic and syncretic
+    philosophies and movements. Since the Western social formet in the 1960s and 1970s
+    a number new of movements and schools have appeared. Most of these stances are
+    limited to even smaller numbers than the schools and movements listed above. *'''Post-left
+    anarchy''' - Post-left anarchy (also called egoist-anarchism) seeks to distance
+    itself from the traditional &quot;left&quot; - communists, liberals, social democrats,
+    etc. - and to escape the confines of ideology in general.
+  max_new_tokens: 317
+  source: enwiki9
+  chunk_id: 11
+- prompt_id: 12
+  prompt: Post-leftists argue that anarchism has been weakened by its long attachment
+    to contrary &quot;leftist&quot; movements and single issue causes (anti-war, anti-nuclear,
+    etc.). It calls for a synthesis of anarchist thought and a specifically anti-authoritarian
+    revolutionary movement outside of the leftist milieu. It often focuses on the
+    individual rather than speaking in terms of class or other broad generalizations
+    and shuns organizational tendencies in favor of the complete absence of explicit
+    hierarchy. Important groups and individuals associated with Post-left
+  generated_text: "anarchy include: CrimethInc, the magazine Anarchy: A Journal of\
+    \ Desire Armed and its editor Jason McQuinn, Bob Black, Hakim Bey and others.\
+    \ For more information, see Infoshop.org's ''Anarchy After Leftism''&lt;ref&gt;[http://www.infoshop.org/afterleftism.html\
+    \ Infoshop.org - Anarchy After Leftism]&lt;/ref&gt; section, and the [http://anarchism.ws/postleft.html\
+    \ Post-left section] on [http://anarchism.ws/ anarchism.ws.] ''See also:'' Post-left\
+    \ anarchy *'''Post-structuralism''' - The term postanarchism was originated by\
+    \ Saul Newman, first receiving popular attention in his book ''From Bakunin to\
+    \ Lacan'' to refer to a theoretical move towards a synthesis of classical anarchist\
+    \ theory and poststructuralist thought. Subsequent to Newman's use of the term,\
+    \ however, it has taken on a life of its own and a wide range of ideas including\
+    \ autonomism, post-left anarchy, situationism, post-colonialism and Zapatismo.\
+    \ By its very nature post-anarchism rejects the idea that it should be a coherent\
+    \ set of doctrines and beliefs. As such it is difficult, if not impossible, to\
+    \ state with any degree of certainty who should or shouldn't be grouped under\
+    \ the rubric. Nonetheless key thinkers associated with post-anarchism include\
+    \ Saul Newman, Todd May, Gilles Deleuze and F\xE9lix Guattari. ''External reference:\
+    \ Postanarchism Clearinghouse''&lt;ref&gt;[http://www.postanarchism.org/ Post\
+    \ anarchist clearing house]&lt;/ref&gt; ''See also'' Post-anarchism *'''Insurrectionary\
+    \ anarchism''' - Insurrectionary anarchism is a form of revolutionary anarchism\
+    \ critical of formal anarchist labor unions and federations. Insurrectionary anarchists\
+    \ advocate informal organization, including small affinity groups, carrying out\
+    \ acts of resistance in various struggles, and mass organizations called base\
+    \ structures, which can include exploited individuals who are not anarchists.\
+    \ Proponents include Wolfi Landstreicher and Alfredo M. Bonanno, author of works\
+    \ including &quot;Armed Joy&quot; and &quot;The Anarchist Tension&quot;. This\
+    \ tendency is represented in the US in magazines such as Willful Disobedience\
+    \ and Killing King Abacus. ''See also:'' Insurrectionary anarchism *'''Small 'a'\
+    \ anarchism''' - '''Small 'a' anarchism''' is a term used in two different, but\
+    \ not unconnected contexts. Dave Neal posited the term in opposition to big 'A'\
+    \ Anarchism in the article [http://www.spunk.org/library/intro/practice/sp001689.html\
+    \ Anarchism: Ideology or Methodology?]."
+  max_new_tokens: 313
+  source: enwiki9
+  chunk_id: 12
+- prompt_id: 13
+  prompt: While big 'A' Anarchism referred to ideological Anarchists, small 'a' anarchism
+    was applied to their methodological counterparts; those who viewed anarchism as
+    &quot;a way of acting, or a historical tendency against illegitimate authority.&quot;
+    As an anti-ideological position, small 'a' anarchism shares some similarities
+    with post-left anarchy. David Graeber and Andrej Grubacic offer an alternative
+    use of the term, applying it to groups and movements organising according to or
+    acting in a manner consistent
+  generated_text: with anarchist principles of decentralisation, voluntary association,
+    mutual aid, the network model, and crucially, &quot;the rejection of any idea
+    that the end justifies the means, let alone that the business of a revolutionary
+    is to seize state power and then begin imposing one's vision at the point of a
+    gun.&quot;[http://www.zmag.org/content/showarticle.cfm?SectionID=41&amp;ItemID=4796]
+    *'''Conceptions of an anarchist society''' - Many political philosophers justify
+    support of the state as a means of regulating violence, so that the destruction
+    caused by human conflict is minimized and fair relationships are established.
+    Anarchists argue that pursuit of these ends does not justify the establishment
+    of a state; many argue that the state is incompatible with those goals and the
+    ''cause'' of chaos, violence, and war. Anarchists argue that the state helps to
+    create a monopoly on violence, and uses violence to advance elite interests. Much
+    effort has been dedicated to explaining how anarchist societies would handle criminality.''See
+    also:'' Anarchism and Society *'''Civil rights and cultural sovereignty''' - Black
+    anarchism opposes the existence of a state, capitalism, and subjugation and domination
+    of people of color, and favors a non-hierarchical organization of society. Theorists
+    include Ashanti Alston, Lorenzo Komboa Ervin, and Sam Mbah. Anarchist People of
+    Color was created as a forum for non-caucasian anarchists to express their thoughts
+    about racial issues within the anarchist movement, particularly within the United
+    States. National anarchism is a political view which seeks to unite cultural or
+    ethnic preservation with anarchist views. Its adherents propose that those preventing
+    ethnic groups (or races) from living in separate autonomous groupings should be
+    resisted. Anti-Racist Action is not an anarchist group, but many anarchists are
+    involved. It focuses on publicly confronting racist agitators. The Zapatista movement
+    of Chiapas, Mexico is a cultural sovereignty group with some anarchist proclivities.
+  max_new_tokens: 292
+  source: enwiki9
+  chunk_id: 13
+- prompt_id: 14
+  prompt: '*''''''Neocolonialism and Globalization'''''' - Nearly all anarchists oppose
+    neocolonialism as an attempt to use economic coercion on a global scale, carried
+    out through state institutions such as the World Bank, World Trade Organization,
+    Group of Eight, and the World Economic Forum. Globalization is an ambiguous term
+    that has different meanings to different anarchist factions. Most anarchists use
+    the term to mean neocolonialism and/or cultural imperialism (which they may see
+    as related). Many are active in the anti-globalization movement.'
+  generated_text: 'Others, particularly anarcho-capitalists, use &quot;globalization&quot;
+    to mean the worldwide expansion of the division of labor and trade, which they
+    see as beneficial so long as governments do not intervene. *''''''Parallel structures''''''
+    - Many anarchists try to set up alternatives to state-supported institutions and
+    &quot;outposts,&quot; such as Food Not Bombs, infoshops, educational systems such
+    as home-schooling, neighborhood mediation/arbitration groups, and so on. The idea
+    is to create the structures for a new anti-authoritarian society in the shell
+    of the old, authoritarian one. *''''''Technology'''''' - Recent technological
+    developments have made the anarchist cause both easier to advance and more conceivable
+    to people. Many people use the Internet to form on-line communities. Intellectual
+    property is undermined and a gift-culture supported by sharing music files, open
+    source programming, and the free software movement. These cyber-communities include
+    the GNU, Linux, Indymedia, and Wiki. &lt;!-- ***NEEDS SOURCE THAT E-GOLD IS USED
+    BY ANARCHISTS*** Public key cryptography has made anonymous digital currencies
+    such as e-gold and Local Exchange Trading Systems an alternative to statist fiat
+    money. --&gt; Some anarchists see information technology as the best weapon to
+    defeat authoritarianism. Some even think the information age makes eventual anarchy
+    inevitable.&lt;ref&gt;[http://www.modulaware.com/a/?m=select&amp;id=0684832720
+    The Sovereign Individual -- Mastering the transition to the information age]&lt;/ref&gt;
+    ''''See also'''': Crypto-anarchism and Cypherpunk. *''''''Pacifism'''''' - Some
+    anarchists consider Pacifism (opposition to war) to be inherent in their philosophy.
+    anarcho-pacifists take it further and follow Leo Tolstoy''s belief in non-violence.
+    Anarchists see war as an activity in which the state seeks to gain and consolidate
+    power, both domestically and in foreign lands, and subscribe to Randolph Bourne''s
+    view that &quot;war is the health of the state&quot;&lt;ref&gt;[http://struggle.ws/hist_texts/warhealthstate1918.html
+    War is the Health of the State]&lt;/ref&gt;. A lot of anarchist activity has been
+    anti-war based. *''''''Parliamentarianism'''''' - In general terms, the anarchist
+    ethos opposes voting in elections, because voting amounts to condoning the state.&lt;ref&gt;[http://members.aol.com/vlntryst/hitler.html
+    The Voluntaryist - Why I would not vote against Hitler]&lt;/ref&gt;.'
+  max_new_tokens: 315
+  source: enwiki9
+  chunk_id: 14
+- prompt_id: 15
+  prompt: 'Voluntaryism is an anarchist school of thought which emphasizes &quot;tending
+    your own garden&quot; and &quot;neither ballots nor bullets.&quot; The anarchist
+    case against voting is explained in ''''The Ethics of Voting''''&lt;ref&gt;[http://www.voluntaryist.com/nonvoting/ethics_of_voting.php
+    Voluntaryist - The ethics of voting]&lt;/ref&gt; by George H. Smith. (Also see
+    &quot;Voting Anarchists: An Oxymoron or What?&quot; by Joe Peacott, and writings
+    by Fred Woodworth). *''''''Sectarianism'''''' - Most anarchist schools of thought
+    are, to some degree, sectarian. There is often a difference of opinion ''''within''''
+    each'
+  generated_text: "school about how to react to, or interact with, other schools.\
+    \ Some, such as panarchists, believe that it is possible for a variety of modes\
+    \ of social life to coexist and compete. Some anarchists view opposing schools\
+    \ as a social impossibility and resist interaction; others see opportunities for\
+    \ coalition-building, or at least temporary alliances for specific purposes. ''See\
+    \ anarchism without adjectives.'' ==Criticisms of anarchism== :''Main article:''\
+    \ Criticisms of anarchism '''Violence.''' Since anarchism has often been associated\
+    \ with violence and destruction, some people have seen it as being too violent.\
+    \ On the other hand hand, Frederick Engels criticsed anarchists for not being\
+    \ violent enough: :''&quot;A revolution is certainly the most authoritarian thing\
+    \ there is; it is the act whereby one part of the population imposes its will\
+    \ upon the other part by means of rifles, bayonets and cannon \u2014 authoritarian\
+    \ means, if such there be at all; and if the victorious party does not want to\
+    \ have fought in vain, it must maintain this rule by means of the terror which\
+    \ its arms inspire in the reactionists. Would the Paris Commune have lasted a\
+    \ single day if it had not made use of this authority of the armed people against\
+    \ the bourgeois?&quot;&lt;ref&gt;[http://www.marxists.org/archive/marx/works/1872/10/authority.htm\
+    \ ''On Authority'']&lt;/ref&gt; '''Utopianism.''' Anarchism is often criticised\
+    \ as unfeasible, or plain utopian, even by many who agree that it's a nice idea\
+    \ in principle. For example, Carl Landauer in his book ''European Socialism''\
+    \ criticizes anarchism as being unrealistically utopian, and holds that government\
+    \ is a &quot;lesser evil&quot; than a society without &quot;repressive force.&quot;\
+    \ He holds that the belief that &quot;ill intentions will cease if repressive\
+    \ force disappears&quot; is an &quot;absurdity.&quot;&lt;ref&gt;Landauer, Carl.\
+    \ ''European Socialism: A History of Ideas and Movements'' (1959) (retrieved from\
+    \ &quot;Anarchist Theory FAQ&quot; by Bryan Caplan on January 27 2006&lt;/ref&gt;\
+    \ However, it must be noted that not all anarchists have such a utopian view of\
+    \ anarchism."
+  max_new_tokens: 309
+  source: enwiki9
+  chunk_id: 15
+- prompt_id: 16
+  prompt: For example, some, such as Benjamin Tucker, advocate privately-funded institutions
+    that defend individual liberty and property. However, other anarchists, such as
+    Sir Herbert Read, proudly accept the characterization &quot;utopian.&quot; '''Class
+    character.''' Marxists have characterised anarchism as an expression of the class
+    interests of the petite bourgeoisie or perhaps the lumpenproletariat. See e.g.
+    Plekhanov&lt;ref&gt;G. V. Plekhanov ''&quot;[http://www.marxists.org/archive/plekhanov/1895/anarch/index.htm
+    Anarchism and Socialism]&quot;''&lt;/ref&gt; for a Marxist critique of 1895. Anarchists
+    have also been characterised as spoilt middle-class dilettantes, most
+  generated_text: "recently in relation to anti-capitalist protesters. '''Tacit authoritarianism.'''\
+    \ In recent decades anarchism has been criticised by 'situationists', 'post-anarchists'\
+    \ and others of preserving 'tacitly statist', authoritarian or bureaucratic tendencies\
+    \ behind a dogmatic facade.&lt;ref&gt;[http://library.nothingness.org/articles/SI/en/display/20\
+    \ ''Society of the Spectacle] Paragraph 91&lt;/ref&gt; '''Hypocrisy.''' Some critics\
+    \ point to the sexist&lt;ref&gt;Jenny P. d'Hericourt, ''&quot;[http://www.pinn.net/~sunshine/whm2003/hericourt2.html\
+    \ Contemporary feminist critic of Proudhon]&quot;''&lt;/ref&gt; and racist views\
+    \ of some prominent anarchists, notably Proudhon and Bakunin, as examples of hypocrisy\
+    \ inherent within anarchism. While many anarchists, however, dismiss that the\
+    \ personal prejudices of 19th century theorists influence the beliefs of present-day\
+    \ anarchists, others criticise modern anarchism for continuing to be eurocentric\
+    \ and reference the impact of anarchist thinkers like Proudhon on fascism through\
+    \ groups like Cercle Proudhon.&lt;ref&gt;[http://www.stewarthomesociety.org/ai.htm\
+    \ ''Anarchist Integralism]&lt;/ref&gt; Anarcho-capitalist Bryan Caplan argues\
+    \ that the treatment of fascists and suspected fascist sympathizers by Spanish\
+    \ Anarchists in the Spanish Civil War was a form of illegitimate coercion, making\
+    \ the proffessed anarchists &quot;ultimately just a third faction of totalitarians,&quot;\
+    \ alongside the communists and fascists. He also criticizes the willingness of\
+    \ the CNT to join the (statist) Republican government during the civil war, and\
+    \ references Stanley G. Payne's book on the Franco regime which claims that the\
+    \ CNT entered negotiations with the fascist government six years after the war.&lt;ref&gt;Caplan,\
+    \ Bryan. ''&quot;[http://www.gmu.edu/departments/economics/bcaplan/spain.htm The\
+    \ Anarcho-Statists of Spain]&quot;''&lt;/ref&gt; ==Cultural phenomena== The kind\
+    \ of anarchism that is most easily encountered in popular culture is represented\
+    \ by celebrities who publicly identify themselves as anarchists. Although some\
+    \ anarchists reject any focus on such famous living individuals as inherently\
+    \ \xE9litist, the following figures are examples of prominent publicly self-avowed\
+    \ anarchists: * the MIT professor of Linguistics Noam Chomsky * the science fiction\
+    \ author Ursula K. Le Guin * the social historian Howard Zinn * entertainer and\
+    \ author Hans Alfredsson * the Avant-garde artist Nicol\xE1s Rossell\xF3 In Denmark,\
+    \ the Freetown Christiania was created in downtown Copenhagen."
+  max_new_tokens: 303
+  source: enwiki9
+  chunk_id: 16
+- prompt_id: 17
+  prompt: The housing and employment crisis in most of Western Europe led to the formation
+    of communes and squatter movements like the one still thriving in Barcelona, in
+    Catalonia. Militant resistance to neo-Nazi groups in places like Germany, and
+    the uprisings of autonomous Marxism, situationist, and Autonomist groups in France
+    and Italy also helped to give popularity to anti-authoritarian, non-capitalist
+    ideas. In various musical styles, anarchism rose in popularity. Most famous for
+    the linking of anarchist
+  generated_text: 'ideas and music has been punk rock, although in the modern age,
+    hip hop, and folk music are also becoming important mediums for the spreading
+    of the anarchist message. In the UK this was associated with the punk rock movement;
+    the band Crass is celebrated for its anarchist and pacifist ideas. The Dutch punk
+    band The Ex further exemplifies this expression. ''''For further details, see
+    anarcho-punk'''' &lt;!-- (Please take care in adding to this list that it not
+    grow excessively large, consider adding to the list of anarchist concepts page)
+    --&gt; There are many concepts relevant to the topic of anarchism, this is a brief
+    summary. There is also a more extensive list of anarchist concepts. * individualist
+    anarchism, anarcho-communism, anarcho-syndicalism, anarcho-capitalism, mutualism,
+    Christian anarchism, anarcha-feminism, green anarchism, nihilist anarchism, anarcho-nationalism,
+    black anarchism, national anarchism. post-anarchism, post-left anarchism * Libertarian
+    Socialism * Anarchist symbolism * List of anarchism links * List of anarchist
+    organizations * Major conflicts within anarchist thought * Past and present anarchist
+    communities ===Historical events=== *Paris Commune (1871) *Haymarket Riot (1886)
+    *The Makhnovschina (1917 &amp;mdash; 1921) *Kronstadt rebellion (1921) *Spanish
+    Revolution (1936) (see Anarchism in Spain and Spanish Revolution) *May 1968, France
+    (1968) *WTO Meeting in Seattle (1999) The following is a sample of books that
+    have been referenced in this page, a more complete list can be found at the list
+    of anarchist books. *Mikhail Bakunin, ''''God and the State'''' [http://dwardmac.pitzer.edu/Anarchist_Archives/bakunin/godandstate/godandstate_ch1.html]
+    *Emma Goldman, ''''Anarchism &amp; Other Essays'''' [http://dwardmac.pitzer.edu/Anarchist_Archives/goldman/GoldmanCW.html]
+    *Peter Kropotkin, ''''Mutual Aid'''' [http://www.gutenberg.org/etext/4341] *Pierre-Joseph
+    Proudhon, ''''What is Property?'''' [http://www.gutenberg.org/etext/360] *Rudolf
+    Rocker, ''''Anarcho-Syndicalism'''' *Murray Rothbard ''''The Ethics of Liberty''''
+    [http://www.mises.org/rothbard/ethics/ethics.asp] *Max Stirner, ''''The Ego And
+    Its Own'''' [http://www.df.lth.se/~triad/stirner/] *Leo Tolstoy, ''''The Kingdom
+    of God is Within You'''' [http://www.kingdomnow.org/withinyou.html] ===Anarchism
+    by region/culture=== * Anarchism in the English tradition &lt;div style=&quot;font-size:
+    85%&quot;&gt; ''''''These notes have no corresponding reference in the article.'
+  max_new_tokens: 302
+  source: enwiki9
+  chunk_id: 17
+- prompt_id: 18
+  prompt: 'They might be re-used.'''''' # [http://ns52.super-hosts.com/~vaz1net/bill/anarchism/library/thelaw.html]
+    # [http://praxeology.net/GM-PS.htm] # [http://flag.blackened.net/revolt/platform/plat_preface.html]
+    # [http://www.againstpolitics.com/market_anarchism/appleton_boston.htm Against
+    Politics - Appleton - Boston Anarchists] # Yarros, Victor ''''Liberty'''' VII,
+    January 2 1892. # [http://www.totse.com/en/politics/anarchism/161594.html Noam
+    Chomsky on Anarchism by Noam Chomsky] The overwhelming diversity and number of
+    links relating to anarchism is extensively covered on the links subpage. *[http://anarchoblogs.protest.net/
+    Anarchoblogs] Blogs by Anarchists. *[http://dwardmac.pitzer.edu/Anarchist_Archives/
+    Anarchy Archives] extensively archives information relating to famous anarchists.
+    This includes many of their books and'
+  generated_text: "other publications. *Hundreds of anarchists are listed, with short\
+    \ bios, links &amp; dedicated pages [http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+    \ at the Daily Bleed's Anarchist Encyclopedia] *[http://www.infoshop.org/ Infoshop.org]\
+    \ (wikipedia page) *[http://www.iww.org/ Industrial Workers of the World] &lt;!--\
+    \ Attention! The external link portion of this article regularly grows far beyond\
+    \ manageable size. Please only list an outside link if it applies to anarchism\
+    \ in general and is somewhat noteworthy. Links to lesser known sites or submovements\
+    \ will be routinely moved to the list page to keep this article free of clutter\
+    \ --&gt; is:Stj\xF3rnleysisstefna zh-min-nan:Hui-th\xF3ng-t\u012B-ch\xFA-g\u012B\
+    \ #REDIRECT History of Afghanistan #REDIRECT Geography of Afghanistan #REDIRECT\
+    \ Demographics of Afghanistan #REDIRECT Economy of Afghanistan AfghanistanCommunications\
+    \ #REDIRECT Communications in Afghanistan AfghanistanTransportations #REDIRECT\
+    \ Transportation in Afghanistan #REDIRECT Transportation in Afghanistan short-circuiting\
+    \ two-step redirect #REDIRECT Military of Afghanistan AfghanistanTransnationalIssues\
+    \ #REDIRECT Foreign relations of Afghanistan #REDIRECT Foreign relations of Afghanistan\
+    \ #REDIRECT Assistive_technology rv difficult-to-follow paragraph 1) Please do\
+    \ not convert the bullets to subheadings here as the table of contents would be\
+    \ too large in that case (for example, see the FAC). 2) Use ref/note combos for\
+    \ all links and explicitly cited references 3) Reference anything you put here\
+    \ with notable references, as this subject tends to attract a lot of controversy.\
+    \ '''Autism''' is classified as a neurodevelopmental disorder that manifests itself\
+    \ in markedly abnormal social interaction, communication ability, patterns of\
+    \ interests, and patterns of behavior. Although the specific etiology of autism\
+    \ is unknown, many researchers suspect that autism results from genetically mediated\
+    \ vulnerabilities to environmental triggers. And while there is disagreement about\
+    \ the magnitude, nature, and mechanisms for such environmental factors, researchers\
+    \ have found at least seven major genes prevalent among individuals diagnosed\
+    \ as autistic. Some estimate that autism occurs in as many as one United States\
+    \ child in 166, however the National Institute of Mental Health gives a more conservative\
+    \ estimate of one in 1000."
+  max_new_tokens: 303
+  source: enwiki9
+  chunk_id: 18
+- prompt_id: 19
+  prompt: For families that already have one autistic child, the odds of a second
+    autistic child may be as high as one in twenty. Diagnosis is based on a list of
+    psychiatric criteria, and a series of standardized clinical tests may also be
+    used. Autism may not be physiologically obvious. A complete physical and neurological
+    evaluation will typically be part of diagnosing autism. Some now speculate that
+    autism is not a single condition but a group of several distinct conditions
+  generated_text: that manifest in similar ways. By definition, autism must manifest
+    delays in &quot;social interaction, language as used in social communication,
+    or symbolic or imaginative play,&quot; with &quot;onset prior to age 3 years&quot;,
+    according to the Diagnostic and Statistical Manual of Mental Disorders. The ICD-10
+    also says that symptoms must &quot;manifest before the age of three years.&quot;
+    There have been large increases in the reported incidence of autism, for reasons
+    that are heavily debated by researchers in psychology and related fields within
+    the scientific community. Some children with autism have improved their social
+    and other skills to the point where they can fully participate in mainstream education
+    and social events, but there are lingering concerns that an absolute cure from
+    autism is impossible with current technology. However, many autistic children
+    and adults who are able to communicate (at least in writing) are opposed to attempts
+    to cure their conditions, and see such conditions as part of who they are. frame|right|Dr.
+    Hans Asperger described a form of autism in the 1940s that later became known
+    as [[Asperger's syndrome.]] The word ''autism'' was first used in the English
+    language by Swiss psychiatrist Eugene Bleuler in a 1912 number of the ''American
+    Journal of Insanity''. It comes from the Greek word for &quot;self&quot;. However,
+    the classification of autism did not occur until the middle of the twentieth century,
+    when in 1943 psychiatrist Dr. Leo Kanner of the Johns Hopkins Hospital in Baltimore
+    reported on 11 child patients with striking behavioral similarities, and introduced
+    the label ''early infantile autism''. He suggested &quot;autism&quot; from the
+    Greek &amp;alpha;&amp;upsilon;&amp;tau;&amp;omicron;&amp;sigmaf; (''autos''),
+    meaning &quot;self&quot;, to describe the fact that the children seemed to lack
+    interest in other people. Although Kanner's first paper on the subject was published
+    in a (now defunct) journal, ''The Nervous Child'', almost every characteristic
+    he originally described is still regarded as typical of the autistic spectrum
+    of disorders. At the same time an Austrian scientist, Dr.
+  max_new_tokens: 320
+  source: enwiki9
+  chunk_id: 19
+- prompt_id: 20
+  prompt: Hans Asperger, described a different form of autism that became known as
+    Asperger's syndrome&amp;mdash;but the widespread recognition of Asperger's work
+    was delayed by World War II in Germany, and by the fact that his seminal paper
+    wasn't translated into English for almost 50 years. The majority of his work wasn't
+    widely read until 1997. Thus these two conditions were described and are today
+    listed in the Diagnostic and Statistical Manual of Mental Disorders DSM-IV-TR
+    (fourth edition, text
+  generated_text: revision 1) as two of the five pervasive developmental disorders
+    (PDD), more often referred to today as autism spectrum disorders (ASD). All of
+    these conditions are characterized by varying degrees of difference in communication
+    skills, social interactions, and restricted, repetitive and stereotyped patterns
+    of behavior. Few clinicians today solely use the DSM-IV criteria for determining
+    a diagnosis of autism, which are based on the absence or delay of certain developmental
+    milestones. Many clinicians instead use an alternate means (or a combination thereof)
+    to more accurately determine a diagnosis. When referring to someone diagnosed
+    with autism, the term ''autistic'' is often used. However, the term ''person with
+    autism'' can be used instead. This is referred to as ''person-first terminology''.
+    The autistic community generally prefers the term ''autistic'' for reasons that
+    are fairly controversial. This article uses the term ''autistic'' (see talk page).
+    introduced the label ''early infantile autism'' in 1943.]] There is a great diversity
+    in the skills and behaviors of individuals diagnosed as autistic, and physicians
+    will often arrive at different conclusions about the appropriate diagnosis. Much
+    of this is due to the sensory system of an autistic which is quite different from
+    the sensory system of other people, since certain stimulations can affect an autistic
+    differently than a non-autistic, and the degree to which the sensory system is
+    affected varies wildly from one autistic person to another. Nevertheless, professionals
+    within pediatric care and development often look for early indicators of autism
+    in order to initiate treatment as early as possible. However, some people do not
+    believe in treatment for autism, either because they do not believe autism is
+    a disorder or because they believe treatment can do more harm than good. ===Social
+    development=== Typically, developing infants are social beings&amp;mdash;early
+    in life they do such things as gaze at people, turn toward voices, grasp a finger,
+    and even smile.
+  max_new_tokens: 309
+  source: enwiki9
+  chunk_id: 20
+- prompt_id: 21
+  prompt: In contrast, most autistic children prefer objects to faces and seem to
+    have tremendous difficulty learning to engage in the give-and-take of everyday
+    human interaction. Even in the first few months of life, many seem indifferent
+    to other people because they avoid eye contact and do not interact with them as
+    often as non-autistic children. Children with autism often appear to prefer being
+    alone to the company of others and may passively accept such things as hugs
+  generated_text: and cuddling without reciprocating, or resist attention altogether.
+    Later, they seldom seek comfort from others or respond to parents' displays of
+    anger or affection in a typical way. Research has suggested that although autistic
+    children are attached to their parents, their expression of this attachment is
+    unusual and difficult to interpret. Parents who looked forward to the joys of
+    cuddling, teaching, and playing with their child may feel crushed by this lack
+    of expected attachment behavior. Children with autism appear to lack &quot;theory
+    of mind&quot;, the ability to see things from another person's perspective, a
+    behavior cited as exclusive to human beings above the age of five and, possibly,
+    other higher primates such as adult gorillas, chimpanzees and bonobos. Typical
+    5-year-olds can develop insights into other people's different knowledge, feelings,
+    and intentions, interpretations based upon social cues (e.g., gestures, facial
+    expressions). An individual with autism seems to lack these interpretation skills,
+    an inability that leaves them unable to predict or understand other people's actions.
+    The social alienation of autistic and Asperger's people is so intense from childhood
+    that many of them have imaginary friends as companionship. However, having an
+    imaginary friend is not necessarily a sign of autism and also occurs in non-autistic
+    children. Although not universal, it is common for autistic people to not regulate
+    their behavior. This can take the form of crying or verbal outbursts that may
+    seem out of proportion to the situation. Individuals with autism generally prefer
+    consistent routines and environments; they may react negatively to changes in
+    them. It is not uncommon for these individuals to exhibit aggression, increased
+    levels of self-stimulatory behavior, self-injury or extensive withdrawal in overwhelming
+    situations. A key indicator to clinicians making a proper assessment for autism
+    would include looking for symptoms much like those found in sensory integration
+    dysfunction. Children will exhibit problems coping with the normal sensory input.
+  max_new_tokens: 310
+  source: enwiki9
+  chunk_id: 21
+- prompt_id: 22
+  prompt: Indicators of this disorder include oversensitivity or underreactivity to
+    touch, movement, sights, or sounds; physical clumsiness or carelessness; poor
+    body awareness; a tendency to be easily distracted; impulsive physical or verbal
+    behavior; an activity level that is unusually high or low; not unwinding or calming
+    oneself; difficulty learning new movements; difficulty in making transitions from
+    one situation to another; social and/or emotional problems; delays in speech,
+    language or motor skills; specific learning difficulties/delays in academic achievement.
+    One common example
+  generated_text: is an individual with autism hearing. A person with Autism may have
+    trouble hearing certain people while other people are louder than usual. Or the
+    person with autism may be unable to filter out sounds in certain situations, such
+    as in a large crowd of people (see cocktail party effect). However, this is perhaps
+    the part of the autism that tends to vary the most from person to person, so these
+    examples may not apply to every autistic. It should be noted that sensory difficulties,
+    although reportedly common in autistics, are not part of the DSM-IV diagnostic
+    criteria for ''autistic disorder''. ===Communication difficulties=== By age 3,
+    typical children have passed predictable language learning milestones; one of
+    the earliest is babbling. By the first birthday, a typical toddler says words,
+    turns when he or she hears his or her name, points when he or she wants a toy,
+    and when offered something distasteful, makes it clear that the answer is &quot;no.&quot;
+    Speech development in people with autism takes different paths. Some remain mute
+    throughout their lives while being fully literate and able to communicate in other
+    ways&amp;mdash;images, sign language, and typing are far more natural to them.
+    Some infants who later show signs of autism coo and babble during the first few
+    months of life, but stop soon afterwards. Others may be delayed, developing language
+    as late as the teenage years. Still, inability to speak does not mean that people
+    with autism are unintelligent or unaware. Once given appropriate accommodations,
+    many will happily converse for hours, and can often be found in online chat rooms,
+    discussion boards or websites and even using communication devices at autism-community
+    social events such as Autreat. Those who do speak often use language in unusual
+    ways, retaining features of earlier stages of language development for long periods
+    or throughout their lives. Some speak only single words, while others repeat the
+    same phrase over and over.
+  max_new_tokens: 319
+  source: enwiki9
+  chunk_id: 22
+- prompt_id: 23
+  prompt: Some repeat what they hear, a condition called echolalia. Sing-song repetitions
+    in particular are a calming, joyous activity that many autistic adults engage
+    in. Many people with autism have a strong tonal sense, and can often understand
+    spoken language. Some children may exhibit only slight delays in language, or
+    even seem to have precocious language and unusually large vocabularies, but have
+    great difficulty in sustaining typical conversations. The &quot;give and take&quot;
+    of non-autistic conversation is hard for them,
+  generated_text: although they often carry on a monologue on a favorite subject,
+    giving no one else an opportunity to comment. When given the chance to converse
+    with other autistics, they comfortably do so in &quot;parallel monologue&quot;&amp;mdash;taking
+    turns expressing views and information. Just as &quot;neurotypicals&quot; (people
+    without autism) have trouble understanding autistic body languages, vocal tones,
+    or phraseology, people with autism similarly have trouble with such things in
+    people without autism. In particular, autistic language abilities tend to be highly
+    literal; people without autism often inappropriately attribute hidden meaning
+    to what people with autism say or expect the person with autism to sense such
+    unstated meaning in their own words. The body language of people with autism can
+    be difficult for other people to understand. Facial expressions, movements, and
+    gestures may be easily understood by some other people with autism, but do not
+    match those used by other people. Also, their tone of voice has a much more subtle
+    inflection in reflecting their feelings, and the auditory system of a person without
+    autism often cannot sense the fluctuations. What seems to non-autistic people
+    like a high-pitched, sing-song, or flat, robot-like voice is common in autistic
+    children. Some autistic children with relatively good language skills speak like
+    little adults, rather than communicating at their current age level, which is
+    one of the things that can lead to problems. Since non-autistic people are often
+    unfamiliar with the autistic body language, and since autistic natural language
+    may not tend towards speech, autistic people often struggle to let other people
+    know what they need. As anybody might do in such a situation, they may scream
+    in frustration or resort to grabbing what they want. While waiting for non-autistic
+    people to learn to communicate with them, people with autism do whatever they
+    can to get through to them. Communication difficulties may contribute to autistic
+    people becoming socially anxious or depressed.
+  max_new_tokens: 313
+  source: enwiki9
+  chunk_id: 23
+- prompt_id: 24
+  prompt: ===Repetitive behaviors=== Although people with autism usually appear physically
+    normal and have good muscle control, unusual repetitive motions, known as self-stimulation
+    or &quot;stimming,&quot; may set them apart. These behaviors might be extreme
+    and highly apparent or more subtle. Some children and older individuals spend
+    a lot of time repeatedly flapping their arms or wiggling their toes, others suddenly
+    freeze in position. As children, they might spend hours lining up their cars and
+    trains in a certain way, not
+  generated_text: "using them for pretend play. If someone accidentally moves one\
+    \ of these toys, the child may be tremendously upset. Autistic children often\
+    \ need, and demand, absolute consistency in their environment. A slight change\
+    \ in any routine&amp;mdash;in mealtimes, dressing, taking a bath, or going to\
+    \ school at a certain time and by the same route&amp;mdash;can be extremely disturbing.\
+    \ People with autism sometimes have a persistent, intense preoccupation. For example,\
+    \ the child might be obsessed with learning all about vacuum cleaners, train schedules\
+    \ or lighthouses. Often they show great interest in different languages, numbers,\
+    \ symbols or science topics. Repetitive behaviors can also extend into the spoken\
+    \ word as well. Perseveration of a single word or phrase, even for a specific\
+    \ number of times can also become a part of the child's daily routine. ===Effects\
+    \ in education=== Children with autism are affected with these symptoms every\
+    \ day. These unusual characteristics set them apart from the everyday normal student.\
+    \ Because they have trouble understanding people\u2019s thoughts and feelings,\
+    \ they have trouble understanding what their teacher may be telling them. They\
+    \ do not understand that facial expressions and vocal variations hold meanings\
+    \ and may misinterpret what emotion their instructor is displaying. This inability\
+    \ to fully decipher the world around them makes education stressful. Teachers\
+    \ need to be aware of a student's disorder so that they are able to help the student\
+    \ get the best out of the lessons being taught. Some students learn better with\
+    \ visual aids as they are better able to understand material presented this way.\
+    \ Because of this, many teachers create \u201Cvisual schedules\u201D for their\
+    \ autistic students. This allows the student to know what is going on throughout\
+    \ the day, so they know what to prepare for and what activity they will be doing\
+    \ next. Some autistic children have trouble going from one activity to the next,\
+    \ so this visual schedule can help to reduce stress."
+  max_new_tokens: 314
+  source: enwiki9
+  chunk_id: 24
+- prompt_id: 25
+  prompt: Research has shown that working in pairs may be beneficial to autistic children.
+    &lt;!-- cite a source here, please! --&gt; Autistic students have problems in
+    schools not only with language and communication, but with socialization as well.
+    They feel self-conscious about themselves and many feel that they will always
+    be outcasts. By allowing them to work with peers they can make friends,
+  generated_text: "which in turn can help them cope with the problems that arise.\
+    \ By doing so they can become more integrated into the mainstream environment\
+    \ of the classroom. A teacher's aide can also be useful to the student. The aide\
+    \ is able to give more elaborate directions that the teacher may not have time\
+    \ to explain to the autistic child. The aide can also facilitate the autistic\
+    \ child in such a way as to allow them to stay at a similar level to the rest\
+    \ of the class. This allows a partially one-on-one lesson structure so that the\
+    \ child is still able to stay in a normal classroom but be given the extra help\
+    \ that they need. There are many different techniques that teachers can use to\
+    \ assist their students. A teacher needs to become familiar with the child\u2019\
+    s disorder to know what will work best with that particular child. Every child\
+    \ is going to be different and teachers have to be able to adjust with every one\
+    \ of them. Students with Autism Spectrum Disorders typically have high levels\
+    \ of anxiety and stress, particularly in social environments like school. If a\
+    \ student exhibits aggressive or explosive behavior, it is important for educational\
+    \ teams to recognize the impact of stress and anxiety. Preparing students for\
+    \ new situations by writing Social Stories can lower anxiety. Teaching social\
+    \ and emotional concepts using systematic teaching approaches such as The Incredible\
+    \ 5-Point Scale or other Cognitive Behavioral strategies can increase a student's\
+    \ ability to control excessive behavioral reactions."
+  max_new_tokens: 252
+  source: enwiki9
+  chunk_id: 25
+- prompt_id: 26
+  prompt: 'Autism is defined in section 299.00 of the Diagnostic and Statistical Manual
+    of Mental Disorders (DSM-IV) as: #A total of six (or more) items from (1), (2)
+    and (3), with at least two from (1), and one each from (2) and (3): ##qualitative
+    impairment in social interaction, as manifested by at least two of the following:
+    ###marked impairment in the use of multiple nonverbal behaviors such as eye-to-eye
+    gaze, facial expression, body postures, and'
+  generated_text: 'gestures to regulate social interaction ###failure to develop peer
+    relationships appropriate to developmental level ###a lack of spontaneous seeking
+    to share enjoyment, interests, or achievements with other people (e.g., by a lack
+    of showing, bringing, or pointing out objects of interest) ###lack of social or
+    emotional reciprocity ##qualitative impairments in communication as manifested
+    by at least one of the following: ###delay in, or total lack of, the development
+    of spoken language (not accompanied by an attempt to compensate through alternative
+    modes of communication such as gesture or mime) ###in individuals with adequate
+    speech, marked impairment in the ability to initiate or sustain a conversation
+    with others ###stereotyped and repetitive use of language or idiosyncratic language
+    ###lack of varied, spontaneous make-believe play or social imitative play appropriate
+    to developmental level ##restricted repetitive and stereotyped patterns of behavior,
+    interests, and activities, as manifested by at least one of the following: ###encompassing
+    preoccupation with one or more stereotyped and restricted patterns of interest
+    that is abnormal either in intensity or focus ###apparently inflexible adherence
+    to specific, nonfunctional routines or rituals ###stereotyped and repetitive motor
+    mannerisms (e.g., hand or finger flapping or twisting, or complex whole-body movements)
+    ###persistent preoccupation with parts of objects #Delays or abnormal functioning
+    in at least one of the following areas, with onset prior to age 3 years: (1) social
+    interaction, (2) language as used in social communication, or (3) symbolic or
+    imaginative play. #The disturbance is not better accounted for by Rett''s Disorder
+    or Childhood Disintegrative Disorder. The ''''Diagnostic and Statistical Manual''''&lt;!--
+    --&gt;''s diagnostic criteria in general is controversial for being vague and
+    subjective. (See the DSM cautionary statement.) The criteria for autism is much
+    more controversial and some clinicians today may ignore it completely, instead
+    solely relying on other methods for determining the diagnosis.'
+  max_new_tokens: 296
+  source: enwiki9
+  chunk_id: 26
+- prompt_id: 27
+  prompt: == Types of autism == Autism presents in a wide degree, from those who are
+    nearly dysfunctional and apparently mentally handicapped to those whose symptoms
+    are mild or remedied enough to appear unexceptional (&quot;normal&quot;) to the
+    general public. In terms of both classification and therapy, autistic individuals
+    are often divided into those with an IQ&amp;lt;80 referred to as having &quot;low-functioning
+    autism&quot; (LFA), while those with IQ&amp;gt;80 are referred to as having
+  generated_text: '&quot;high-functioning autism&quot; (HFA). Low and high functioning
+    are more generally applied to how well an individual can accomplish activities
+    of daily living, rather than to IQ. The terms low and high functioning are controversial
+    and not all autistics accept these labels. Further, these two labels are not currently
+    used or accepted in autism literature. This discrepancy can lead to confusion
+    among service providers who equate IQ with functioning and may refuse to serve
+    high-IQ autistic people who are severely compromised in their ability to perform
+    daily living tasks, or may fail to recognize the intellectual potential of many
+    autistic people who are considered LFA. For example, some professionals refuse
+    to recognize autistics who can speak or write as being autistic at all, because
+    they still think of autism as a communication disorder so severe that no speech
+    or writing is possible. As a consequence, many &quot;high-functioning&quot; autistic
+    persons, and autistic people with a relatively high IQ, are underdiagnosed, thus
+    making the claim that &quot;autism implies retardation&quot; self-fulfilling.
+    The number of people diagnosed with LFA is not rising quite as sharply as HFA,
+    indicating that at least part of the explanation for the apparent rise is probably
+    better diagnostics. === Asperger''s and Kanner''s syndrome === In the current
+    Diagnostic and Statistical Manual of Mental Disorders (DSM-IV-TR), the most significant
+    difference between Autistic Disorder (Kanner''s) and Asperger''s syndrome is that
+    a diagnosis of the former includes the observation of &quot;[d]elays or abnormal
+    functioning in at least one of the following areas, with onset prior to age 3
+    years: (1) social interaction, (2) language as used in social communication, or
+    (3) symbolic or imaginative play[,]&quot; while a diagnosis of Asperger''s syndrome
+    observes &quot;no clinically significant delay&quot; in these areas.'
+  max_new_tokens: 286
+  source: enwiki9
+  chunk_id: 27
+- prompt_id: 28
+  prompt: The DSM makes no mention of level of intellectual functioning, but the fact
+    that Asperger's autistics as a group tend to perform better than those with Kanner's
+    autism has produced a popular conception that ''Asperger's syndrome'' is synonymous
+    with &quot;higher-functioning autism,&quot; or that it is a lesser disorder than
+    ''autism''. There is also a popular but not necessarily true conception that all
+    autistic individuals with a high level of intellectual functioning have Asperger's
+    autism or that both types are
+  generated_text: merely geeks with a medical label attached. Also, autism has evolved
+    in the public understanding, but the popular identification of autism with relatively
+    severe cases as accurately depicted in ''Rain Man'' has encouraged relatives of
+    family members diagnosed in the autistic spectrum to speak of their loved ones
+    as having Asperger's syndrome rather than autism. ===Autism as a spectrum disorder===
+    Another view of these disorders is that they are on a continuum known as autistic
+    spectrum disorders. A related continuum is Sensory Integration Dysfunction, which
+    is about how well we integrate the information we receive from our senses. Autism,
+    Asperger's syndrome, and Sensory Integration Dysfunction are all closely related
+    and overlap. There are two main manifestations of classical autism, regressive
+    autism and early infantile autism. Early infantile autism is present at birth
+    while regressive autism begins before the age of 3 and often around 18 months.
+    Although this causes some controversy over when the neurological differences involved
+    in autism truly begin, some believe that it is only a matter of when an environmental
+    toxin triggers the disorder. This triggering could occur during gestation due
+    to a toxin that enters the mother's body and is transfered to the fetus. The triggering
+    could also occur after birth during the crucial early nervous system development
+    of the child due to a toxin directly entering the child's body. == Increase in
+    diagnoses of autism == There has been an explosion worldwide in reported cases
+    of autism over the last ten years, which is largely reminiscent of increases in
+    the diagnosis of schizophrenia and multiple personality disorder in the twentieth
+    century. This has brought rise to a number of different theories as to the nature
+    of the sudden increase. Epidemiologists argue that the rise in diagnoses in the
+    United States is partly or entirely attributable to changes in diagnostic criteria,
+    reclassifications, public awareness, and the incentive to receive federally mandated
+    services.
+  max_new_tokens: 316
+  source: enwiki9
+  chunk_id: 28
+- prompt_id: 29
+  prompt: A widely cited study from the M.I.N.D. Institute in California (17 October
+    2002), claimed that the increase in autism is real, even after those complicating
+    factors are accounted for (see reference in this section below). Other researchers
+    remain unconvinced (see references below), including Dr. Chris Johnson, a professor
+    of pediatrics at the University of Texas Health Sciences Center at San Antonio
+    and cochair of the American Academy of Pediatrics Autism Expert Panel, who says,
+    &quot;There is a chance
+  generated_text: we're seeing a true rise, but right now I don't think anybody can
+    answer that question for sure.&quot; (Newsweek reference below). The answer to
+    this question has significant ramifications on the direction of research, since
+    a ''real increase'' would focus more attention (and research funding) on the search
+    for environmental factors, while ''little or no real increase'' would focus more
+    attention to genetics. On the other hand, it is conceivable that certain environmental
+    factors (vaccination, diet, societal changes) may have a particular impact on
+    people with a specific genetic constitution. There is little public research on
+    the effects of in vitro fertilization on the number of incidences of autism. One
+    of the more popular theories is that there is a connection between &quot;geekdom&quot;
+    and autism. This is hinted, for instance, by a ''Wired Magazine'' article in 2001
+    entitled &quot;The Geek Syndrome&quot;, which is a point argued by many in the
+    autism rights movement. This article, many professionals assert, is just one example
+    of the media's application of mental disease labels to what is actually variant
+    normal behavior&amp;mdash;they argue that shyness, lack of athletic ability or
+    social skills, and intellectual interests, even when they seem unusual to others,
+    are not in themselves signs of autism or Asperger's syndrome. Others assert that
+    it is actually the medical profession which is applying mental disease labels
+    to children who in the past would have simply been accepted as a little different
+    or even labeled 'gifted'. See clinomorphism for further discussion of this issue.
+    Due to the recent publicity surrounding autism and autistic spectrum disorders,
+    an increasing number of adults are choosing to seek diagnoses of high-functioning
+    autism or Asperger's syndrome in light of symptoms they currently experience or
+    experienced during childhood. Since the cause of autism is thought to be at least
+    partly genetic, a proportion of these adults seek their own diagnosis specifically
+    as follow-up to their children's diagnoses.
+  max_new_tokens: 316
+  source: enwiki9
+  chunk_id: 29
+- prompt_id: 30
+  prompt: Because autism falls into the pervasive developmental disorder category,
+    strictly speaking, symptoms must have been present in a given patient before age
+    seven in order to make a differential diagnosis. Due to the complexity of autism,
+    there are many facets of sociology that need to be considered when discussing
+    it, such as the culture which has evolved from autistic persons connecting and
+    communicating with one another. In addition, there are several subgroups forming
+    within the autistic community,
+  generated_text: sometimes in strong opposition to one another. ===Community and
+    politics=== Much like many other controversies in the world, the autistic community
+    itself has splintered off into several groups. Essentially, these groups are those
+    who seek a cure for autism, dubbed ''pro-cure'', those who do not desire a cure
+    for autism and as such resist it, dubbed ''anti-cure'', and the many people caught
+    in the middle of the two. In recent history, with scientists learning more about
+    autism and possibly coming closer to a cure, some members of the &quot;anti-cure&quot;
+    movement sent a letter to the United Nations demanding to be treated as a minority
+    group rather than a group with a mental disability or disease. Websites such as
+    autistics.org present the view of the anti-cure group. There are numerous resources
+    available for autistics from many groups. Due to the fact that many autistics
+    find it easier to communicate online than in person, many of these resources are
+    available online. In addition, sometimes successful autistic adults in a local
+    community will help out children with autism, much in the way a master would help
+    out an apprentice, for example. 2002 was declared Autism Awareness Year in the
+    United Kingdom&amp;mdash;this idea was initiated by Ivan and Charika Corea, parents
+    of an autistic child, Charin. Autism Awareness Year was led by the British Institute
+    of Brain Injured Children, Disabilities Trust, National Autistic Society, Autism
+    London and 800 organizations in the United Kingdom. It had the personal backing
+    of British Prime Minister Tony Blair and parliamentarians of all parties in the
+    Palace of Westminster. With the recent increases in autism recognition and new
+    approaches to educating and socializing autistics, an ''autistic culture'' has
+    begun to develop. Similar to deaf culture, autistic culture is based in a belief
+    that autism is a unique way of being and not a disorder to be cured.
+  max_new_tokens: 308
+  source: enwiki9
+  chunk_id: 30
+- prompt_id: 31
+  prompt: There are some commonalities which are specific to autism in general as
+    a culture, not just &quot;autistic culture&quot;. It is a common misperception
+    that people with autism do not marry; many do get married. Often, they marry another
+    person with autism, although this is not always the case. Many times autistics
+    are attracted to other autistics due to shared interests or obsessions, but more
+    often than not the attraction is due to simple compatibility with personality
+  generated_text: types, the same as is true for non-autistics. Autistics who communicate
+    have explained that companionship is as important to autistics as it is to anyone
+    else. Multigenerational autistic families have also recently become a bit more
+    common. The interests of autistic people and so-called &quot;geeks&quot; or &quot;nerds&quot;
+    can often overlap as autistic people can sometimes become preoccupied with certain
+    subjects, much like the variant normal behavior geeks experience. However, in
+    practice many autistic people have difficulty with working in groups, which impairs
+    them even in the most &quot;technical&quot; of situations. ===Autistic adults===
+    thumb|right|Temple Grandin, one of the more successful adults with autism. &lt;small&gt;Photograph
+    courtesy Joshua Nathaniel Pritikin and William Lawrence Jarrold.&lt;/small&gt;
+    Some autistic adults are able to work successfully in mainstream jobs, usually
+    those with high-functioning autism or Asperger's syndrome. Nevertheless, communication
+    and social problems often cause difficulties in many areas of the autistic's life.
+    Other autistics are capable of employment in sheltered workshops under the supervision
+    of managers trained in working with persons with disabilities. A nurturing environment
+    at home, at school, and later in job training and at work, helps autistic people
+    continue to learn and to develop throughout their lives. Some argue that the internet
+    allows autistic individuals to communicate and form online communities, in addition
+    to being able to find occupations such as independent consulting, which does generally
+    not require much human interaction offline. In the United States, the public schools'
+    responsibility for providing services ends when the autistic person is in their
+    20s, depending on each state. The family is then faced with the challenge of finding
+    living arrangements and employment to match the particular needs of their adult
+    child, as well as the programs and facilities that can provide support services
+    to achieve these goals. === Autistic savants === The autistic savant phenomenon
+    is sometimes seen in autistic people.
+  max_new_tokens: 305
+  source: enwiki9
+  chunk_id: 31
+- prompt_id: 32
+  prompt: The term is used to describe a person who is autistic and has extreme talent
+    in a certain area of study. Although there is a common association between savants
+    and autism (an association created by the 1988 film ''Rain Man''), most autistic
+    people are not savants. Mental calculators and fast programming skills are the
+    most common form. The famous example is Daniel Tammet, the subject of the documentary
+    film ''The Brain Man'' (Kim Peek, one of the
+  generated_text: inspirations for Dustin Hoffman's character in the film ''Rain Man'',
+    is not autistic). &quot;Bright Splinters of the Mind&quot; is a book that explores
+    this issue further. == Other pervasive developmental disorders == Autism and Asperger's
+    syndrome are just two of the five pervasive developmental disorders (PDDs). The
+    three other pervasive developmental disorders are Rett syndrome, Childhood disintegrative
+    disorder, and Pervasive developmental disorder not otherwise specified. Some of
+    these are related to autism, while some of them are entirely separate conditions.
+    === Rett syndrome === Rett syndrome is relatively rare, affecting almost exclusively
+    females, one out of 10,000 to 15,000. After a period of normal development, sometime
+    between 6 and 18 months, autism-like symptoms begin to appear. The little girl's
+    mental and social development regresses; she no longer responds to her parents
+    and pulls away from any social contact. If she has been talking, she stops; she
+    cannot control her feet; she wrings her hands. Some of these early symptoms may
+    be confused for autism. Some of the problems associated with Rett syndrome can
+    be treated. Physical, occupational, and speech therapy can help with problems
+    of coordination, movement, and speech. Scientists sponsored by the National Institute
+    of Child Health and Human Development have discovered that a mutation in the sequence
+    of a single gene causes Rett syndrome, and can physically test for it with a 80%
+    accuracy rate . Rett syndrome in the past was sometimes classified as an autistic
+    spectrum disorder, however most scientists agree that Rett syndrome is a separate
+    developmental disorder and not part of the autistic spectrum . ===Childhood disintegrative
+    disorder=== Childhood disintegrative disorder (CDD, and sometimes abbreviated
+    as CHDD also) is a condition appearing in 3 or 4 year old children who have developed
+    normally until age 2. Over several months, the child will deteriorate in intellectual,
+    social, and language functioning from previously normal behaviour.
+  max_new_tokens: 309
+  source: enwiki9
+  chunk_id: 32
+- prompt_id: 33
+  prompt: This long period of normal development before regression helps differentiate
+    CDD from Rett syndrome (and in fact it must be differentiated from autism in testing).
+    The cause for CDD is unknown (thus it may be a spectrum disorder) but current
+    evidence suggests it has something to do with the central nervous system . ===
+    Pervasive developmental disorder not otherwise specified === Pervasive developmental
+    disorder not otherwise specified, or PDD-NOS, is referred to as a ''subthreshold''
+    condition because it is
+  generated_text: 'a classification which is given to someone who suffers from impairments
+    in social interaction, communication, and/or stereotyped behaviour but does not
+    meet the criteria for one of the other four pervasive developmental disorders.
+    Unlike the other four pervasive developmental disorders, PDD-NOS has no specific
+    guidelines for diagnosis, so the person may have a lot of characteristics of an
+    autistic person, or few to none at all. Note that pervasive developmental disorder
+    is not a diagnosis, just a term to refer to the five mentioned conditions, while
+    PDD-NOS is an official diagnosis . :* Conditions comorbid to autism spectrum disorders
+    :* Early Childhood Autism :* Heritability of autism :* Aspies For Freedom :* National
+    Alliance for Autism Research :* Controversies about functioning labels in the
+    autism spectrum :* Controversies in autism :* Ethical challenges to autism treatment
+    :* List of autism-related topics :* List of fictional characters on the autistic
+    spectrum :* List of autistic people * ([http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=12216059&amp;dopt=Abstract
+    abstract]) * ([http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=12108622
+    abstract]) * Manev R, Manev H. Aminoglycoside antibiotics and autism: a speculative
+    hypothesis. BMC Psychiatry. 2001;1:5. Epub 2001 10 October.[http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11696245&amp;query_hl=60]
+    * Strock, Margaret (2004). Autism Spectrum Disorders (Pervasive Developmental
+    Disorders). NIH Publication No. NIH-04-5511, National Institute of Mental Health,
+    National Institutes of Health, U.S. Department of Health and Human Services, Bethesda,
+    MD, 40 pp. http://www.nimh.nih.gov/publicat/autism.cfm :[http://www.wrongplanet.net
+    WrongPlanet.net - The Community and Resource for Autism] : [http://www.autism-spectrum-disorder.com
+    Autism-Spectrum-Disorder.com] - Autism Spectrum Disorder : [http://www.colour-se7en.co.uk
+    Colour-se7en]- a website created to bring awareness of spectrum related disorders
+    and forums for NT and ASD interaction. : [http://www.ericdigests.org/2000-3/autism.htm
+    EricDigests.org] - ''Teaching Students with Autism'', Glen Dunlap, Lise Fox, ERIC
+    Digest (October, 1999) : [http://observer.guardian.co.uk/magazine/story/0,11913,1639392,00.html
+    Autistic and Proud] Describes new discoveries about autism, autistics speaking
+    for themselves. : [http://www.weirdnotstupid.com Weird Not Stupid] - A website
+    created from the perspective of a person who has two siblings who are on the Autism
+    Spectrum with the goal of giving information to anybody who is seeking it.'
+  max_new_tokens: 318
+  source: enwiki9
+  chunk_id: 33
+- prompt_id: 34
+  prompt: ': [http://autism.about.com/ Autism/Pervasive Developmental Disorders] By
+    Adelle Jameson Tilton, About.com : [http://aboutautism.blogspot.com/ Autism News
+    and More] : [http://www.adventuresinautism.blogspot.com/ Adventures In Autism]
+    By a health professional who is the mother of an autistic boy. : [http://www.autismsymptoms.blogspot.com
+    Autism Symptoms] : [http://www.gettingthetruthout.org Getting The Truth Out] By
+    Argues that there are common misconceptions about autism. : [http://www.autismtreatment.info/reality+aba.aspx?rssid=1
+    Reality ABA, An Autism Diary] By Katherine Lee, mother of an autistic son. :*
+    [http://www.onthespectrum.com On The Spectrum] A web community for those'
+  generated_text: "on the autism spectrum with an emphasis on support and advocacy\
+    \ : [http://www.autismwebsite.com/ari/index.htm autismwebsite.com Autism Research\
+    \ Institute] Clearinghouse for information relating to autism, particularly the\
+    \ biomedical treatment approach : [http://www.autism-society.org/site/PageServer\
+    \ Autism-Society.org] - Autism Society of America : [http://www.autistics.org\
+    \ autistics.org] - Clearinghouse for information related to autism, from a non-cure\
+    \ standpoint. Many articles by autistics. : [http://www.autism.org/contents.html\
+    \ Center for the Study of Autism], Autism Research Institute (founded by Bernard\
+    \ Rimland) : [http://www.geocities.com/growingjoel/index.html A Way Of Life] Resources\
+    \ and information for parents. :[http://www.autismtreatment.info Autism Treatment\
+    \ Info] Treatment Tips for Children with Autism, PDD &amp; Asperger's Syndrome.\
+    \ : [http://rsaffran.tripod.com/aba.html ABA Resources for Recovery from Autism]\
+    \ - Information about and resource guide for behavioral intervention for autism\
+    \ : [http://www.autism-resources.com/ Autism-Resources.com] - Offering information\
+    \ and links regarding the developmental disabilities autism and Asperger's Syndrome.\
+    \ : [http://www.autismtalk.net Autism Talk] Parents &amp; educators discuss all\
+    \ views. : [http://www.autismtoday.com/ AutismToday.com] - 'everything you need\
+    \ to know about autism', Autism Today : [http://www.teachers.tv/autism Focus on\
+    \ Autism] Selection of documentaries, interviews, etc. : [http://www.info.autism.org.uk/\
+    \ Autism.org.uk] - 'PARIS: Public Autism Resource &amp; Information Service' (directory\
+    \ of UK autism services) : [http://glennrowe.net/BaronCohen/AutismSpectrumQuotient/AutismSpectrumQuotient.aspx\
+    \ Autism Spectrum Quotient] - Measure Your Autism Spectrum Quotient : [http://www.rdos.net/eng/Aspie-quiz.php\
+    \ Aspie-quiz] - Quiz that measures autistic traits pl:Autyzm wczesnodzieci\u0119\
+    cy sk:Autizmus (uzavretos\u0165) #REDIRECT History of Albania #REDIRECT History\
+    \ of Albania #REDIRECT Geography of Albania #REDIRECT Geography of Albania #REDIRECT\
+    \ Demographics of Albania #REDIRECT Demographics of Albania #REDIRECT As_We_May_Think\
+    \ #REDIRECT Politics of Albania #REDIRECT Politics of Albania #REDIRECT Economy\
+    \ of Albania #REDIRECT Economy of Albania '''Albedo''' is the measure of reflectivity\
+    \ of a surface or body. It is the ratio of electromagnetic radiation (EM radiation)\
+    \ reflected to the amount incident upon it. The fraction, usually expressed as\
+    \ a percentage from 0% to 100%, is an important concept in climatology and astronomy.\
+    \ This ratio depends on the frequency of the radiation considered: unqualified,\
+    \ it refers to an average across the spectrum of visible light."
+  max_new_tokens: 312
+  source: enwiki9
+  chunk_id: 34
+- prompt_id: 35
+  prompt: 'It also depends on the angle of incidence of the radiation: unqualified,
+    normal incidence. Fresh snow albedos are high: up to 90%. The ocean surface has
+    a low albedo. The average albedo of Earth is about 30% whereas the albedo of the
+    Moon is about 7%. In astronomy, the albedo of satellites and asteroids can be
+    used to infer surface composition, most notably ice content. Enceladus, a moon
+    of Saturn, has'
+  generated_text: "the highest known albedo of any body in the solar system, with\
+    \ 99% of EM radiation reflected. Human activities have changed the albedo (via\
+    \ forest clearance and farming, for example) of various areas around the globe.\
+    \ However, quantification of this effect is difficult on the global scale: it\
+    \ is not clear whether the changes have tended to increase or decrease global\
+    \ warming. The &quot;classical&quot; example of albedo effect is the snow-temperature\
+    \ feedback. If a snow covered area warms and the snow melts, the albedo decreases,\
+    \ more sunlight is absorbed, and the temperature tends to increase. The converse\
+    \ is true: if snow forms, a cooling cycle happens. The intensity of the albedo\
+    \ effect depends on the size of the change in albedo and the amount of insolation;\
+    \ for this reason it can be potentially very large in the tropics. == Some examples\
+    \ of albedo effects == === Fairbanks, Alaska === According to the National Climatic\
+    \ Data Center's GHCN 2 data, which is composed of 30-year smoothed climatic means\
+    \ for thousands of weather stations across the world, the college weather station\
+    \ at Fairbanks, Alaska, is about 3 \xB0C (5 \xB0F) warmer than the airport at\
+    \ Fairbanks, partly because of drainage patterns but also largely because of the\
+    \ lower albedo at the college resulting from a higher concentration of pine trees\
+    \ and therefore less open snowy ground to reflect the heat back into space. Neunke\
+    \ and Kukla have shown that this difference is especially marked during the late\
+    \ winter months, when solar radiation is greater. Although the albedo-temperature\
+    \ effect is most famous in colder regions of Earth, because more snow falls there,\
+    \ it is actually much stronger in tropical regions because in the tropics there\
+    \ is consistently more sunlight."
+  max_new_tokens: 286
+  source: enwiki9
+  chunk_id: 35
+- prompt_id: 36
+  prompt: "When Brazilian ranchers cut down dark, tropical rainforest trees to replace\
+    \ them with even darker soil in order to grow crops, the average temperature of\
+    \ the area appears to increase by an average of about 3 \xB0C (5 \xB0F) year-round,\
+    \ which is a significant amount. === Small scale effects === Albedo works on a\
+    \ smaller scale, too. People who wear dark clothes in the summertime put themselves\
+    \ at a greater risk of heatstroke than those who"
+  generated_text: "wear white clothes. The albedo of a pine forest at 45\xB0N in the\
+    \ winter in which the trees cover the land surface completely is only about 9%,\
+    \ among the lowest of any naturally occurring land environment. This is partly\
+    \ due to the color of the pines, and partly due to multiple scattering of sunlight\
+    \ within the trees which lowers the overall reflected light level. Due to light\
+    \ penetration, the ocean's albedo is even lower at about 3.5%, though this depends\
+    \ strongly on the angle of the incident radiation. Dense swampland averages between\
+    \ 9% and 14%. Deciduous trees average about 13%. A grassy field usually comes\
+    \ in at about 20%. A barren field will depend on the color of the soil, and can\
+    \ be as low as 5% or as high as 40%, with 15% being about the average for farmland.\
+    \ A desert or large beach usually averages around 25% but varies depending on\
+    \ the color of the sand. [Reference: Edward Walker's study in the Great Plains\
+    \ in the winter around 45\xB0N]. Urban areas in particular have very unnatural\
+    \ values for albedo because of the many human-built structures which absorb light\
+    \ before the light can reach the surface. In the northern part of the world, cities\
+    \ are relatively dark, and Walker has shown that their average albedo is about\
+    \ 7%, with only a slight increase during the summer. In most tropical countries,\
+    \ cities average around 12%. This is similar to the values found in northern suburban\
+    \ transitional zones. Part of the reason for this is the different natural environment\
+    \ of cities in tropical regions, e.g., there are more very dark trees around;\
+    \ another reason is that portions of the tropics are very poor, and city buildings\
+    \ must be built with different materials. Warmer regions may also choose lighter\
+    \ colored building materials so the structures will remain cooler."
+  max_new_tokens: 306
+  source: enwiki9
+  chunk_id: 36
+- prompt_id: 37
+  prompt: Because trees tend to have a low albedo, removing forests would tend to
+    increase albedo and thereby cool the planet. Cloud feedbacks further complicate
+    the issue. In seasonally snow-covered zones, winter albedos of treeless areas
+    are 10% to 50% higher than nearby forested areas because snow does not cover the
+    trees as readily. Studies by the Hadley Centre have investigated the relative
+    (generally warming) effect of albedo change and (cooling) effect of carbon sequestration
+    on
+  generated_text: "planting forests. They found that new forests in tropical and midlatitude\
+    \ areas tended to cool; new forests in high latitudes (e.g. Siberia) were neutral\
+    \ or perhaps warming [http://66.102.11.104/search?q=cache:o7LD-owSkNgJ:www.ulapland.fi/home/arktinen/feed_pdf/Betts_revised.pdf+hadley+albedo+forest&amp;hl=en].\
+    \ Snow albedos can be as high as 90%. This is for the ideal example, however:\
+    \ fresh deep snow over a featureless landscape. Over Antarctica they average a\
+    \ little more than 80%. If a marginally snow-covered area warms, snow tends to\
+    \ melt, lowering the albedo, and hence leading to more snowmelt (the ice-albedo\
+    \ feedback). This is the basis for predictions of enhanced warming in the polar\
+    \ and seasonally snow covered regions as a result of global warming. Clouds are\
+    \ another source of albedo that play into the global warming equation. Different\
+    \ types of clouds have different albedo values, theoretically ranging from a minimum\
+    \ of near 0% to a maximum in the high 70s. Climate models have shown that if the\
+    \ whole Earth were to be suddenly covered by white clouds, the surface temperatures\
+    \ would drop to a value of about -150 \xB0C (-240 \xB0F). This model, though it\
+    \ is far from perfect, also predicts that to offset a 5 \xB0C (9 \xB0F) temperature\
+    \ change due to an increase in the magnitude of the greenhouse effect, &quot;all&quot;\
+    \ we would need to do is increase the Earth's overall albedo by about 12% by adding\
+    \ more white clouds. Albedo and climate in some areas are already affected by\
+    \ artificial clouds, such as those created by the contrails of heavy commercial\
+    \ airliner traffic. A study following the September 11 attacks, after which all\
+    \ major airlines in the U.S. shut down for three days, showed a local 1 &amp;deg;C\
+    \ increase in the daily temperature range (the difference of day and night temperatures)\
+    \ (''see: contrail''). === Aerosol effects === Aerosol (very fine particles/droplets\
+    \ in the atmosphere) has two effects, direct and indirect."
+  max_new_tokens: 303
+  source: enwiki9
+  chunk_id: 37
+- prompt_id: 38
+  prompt: 'The direct (albedo) effect is generally to cool the planet; the indirect
+    effect (the particles act as CCNs and thereby change cloud properties) is less
+    certain [http://www.grida.no/climate/ipcc_tar/wg1/231.htm#671]. Another albedo-related
+    effect on the climate is from black carbon particles. The size of this effect
+    is difficult to quantify: the IPCC say that their &quot;estimate of the global
+    mean radiative forcing for BC aerosols from fossil fuels is ... +0.2 W m&lt;sup&gt;-2&lt;/sup&gt;
+    (from +0.1 W m&lt;sup&gt;-2&lt;/sup&gt; in the SAR)) with a'
+  generated_text: 'range +0.1 to +0.4 W m&lt;sup&gt;-2&lt;/sup&gt;&quot;. [http://www.grida.no/climate/ipcc_tar/wg1/233.htm].
+    nl:Weerkaatsingsvermogen #REDIRECT Afro-Asiatic languages #REDIRECT Afro-Asiatic
+    languages #REDIRECT Constructed language Reverted edits by 71.193.1.105 (talk)
+    to last version by Bloodshedder ''''''Abu Dhabi'''''' (Arabic: &amp;#1571;&amp;#1576;&amp;#1608;
+    &amp;#1592;&amp;#1576;&amp;#1610; ''''&amp;#700;Ab&amp;#363; &amp;#7826;aby'''')
+    is the largest of the seven emirates that comprise the United Arab Emirates and
+    was also the largest of the former Trucial States. ''''''Abu Dhabi'''''' is also
+    a city of the same name within the Emirate that is the capital of the country,
+    in north central UAE. The city lies on a T-shaped island jutting into the Persian
+    Gulf from the central western coast. An estimated 1,000,000 lived there in 2000,
+    with about an 80% expatriate population. Abu Dhabi city is located at . Al Ain
+    is Abu Dhabi''s second largest urban area with a population of 348,000 (2003 census
+    estimate) and is located 150 kilometres inland. Parts of Abu Dhabi were settled
+    as far back as the 3rd millennium BC and its early history fits the nomadic, herding
+    and fishing pattern typical of the broader region. Modern Abu Dhabi traces its
+    origins to the rise of an important tribal confederation the Bani Yas in the late
+    18th century, who also assumed control of Dubai. In the 19th century the Dubai
+    and Abu Dhabi branches parted ways. Into the mid-20th century, the economy of
+    Abu Dhabi continued to be sustained mainly by camel herding, production of dates
+    and vegetables at the inland oases of Al Ain and Liwa, and fishing and pearl diving
+    off the coast of Abu Dhabi city, which was occupied mainly during the summer months.
+    Most dwellings in Abu Dhabi city were, at this time constructed of palm fronds
+    (barasti), with the better-off families occupying mud huts. The growth of the
+    cultured pearl industry in the first half of the 20th century created hardship
+    for residents of Abu Dhabi as pearls represented the largest export and main source
+    of cash earnings.'
+  max_new_tokens: 318
+  source: enwiki9
+  chunk_id: 38
+- prompt_id: 39
+  prompt: In 1939, Sheikh Shakhbut Bin-Sultan Al Nahyan granted Petroleum concessions,
+    and oil was first found in 1958. At first, oil money had a marginal impact. A
+    few lowrise concete buildings were erected, and the first paved road was completed
+    in 1961, but Sheikh Shakbut, uncertain whether the new oil royalties would last,
+    took a cautious approach, prefering to save the revenue rather than investing
+    it in development. His brother, Zayed bin Sultan Al Nahayan, saw that oil wealth
+    had
+  generated_text: 'the potential to transform Abu Dhabi. The ruling Al Nahayan family
+    decided that Sheikh Zayed should replace his brother as Ruler and carry out his
+    vision of developing the country. On August 6, 1966, with the assistance of the
+    British, Sheikh Zayed became the new ruler. See generally, Al-Fahim, M, ''''From
+    Rags to Riches: A Story of Abu Dhabi'''', Chapter Six (London Centre of Arab Studies,
+    1995), ISBN 1 900404 00 1. With the announcement by Britain in 1968 that it would
+    withdraw from the Gulf area by 1971, Sheikh Zayed became the main driving force
+    behind the formation of the United Arab Emirates. After the Emirates gained independence
+    in 1971, oil wealth continued to flow to the area and traditional mud-brick huts
+    were rapidly replaced with banks, boutiques and modern highrises. His Highness
+    Sheikh Khalifa bin Zayed Al Nahayan is the hereditary emir and ruler of Abu Dhabi,
+    as well as the current president of the United Arab Emirates (UAE). Now part of
+    the United Arab Emirates, ''''''Abu Dhabi'''''' was formerly the largest of the
+    seven sheikdoms which made up the Trucial States on the so-called Pirate Coast
+    of eastern Arabia between Oman and Qatar. The Trucial States as a whole had an
+    area of some 32,000 square miles of which Abu Dhabi alone had 26,000. The capital
+    was the town of Abu Dhabi which is on an offshore island and was first settled
+    in 1761. The name Trucial States arose from treaties made with Great Britain in
+    1820 which ensured a condition of truce in the area and the suppression of piracy
+    and slavery. The treaty expired on 31 December 1966. The decision to form the
+    UAE was made on 18 July 1971 and the federation was founded on 1 August 1972,
+    although the inaugural UAE stamps were not issued until 1 January 1973. Oil production
+    began on Das Island after prospecting during 1956-1960.'
+  max_new_tokens: 316
+  source: enwiki9
+  chunk_id: 39
+- prompt_id: 40
+  prompt: Das Island is part of Abu Dhabi but lies well offshore, about 100 miles
+    north of the mainland. Oil production on the mainland began in 1962. As a major
+    oil producer, Abu Dhabi soon acquired massive financial wealth. Investment in
+    long-term construction projects and the establishment of a finance sector has
+    led to the area becoming a centre of commerce which may well secure its lasting
+    importance when the oil resources are exhausted. In December 1960, postage stamps
+    of
+  generated_text: "British Postal Agencies in Eastern Arabia were supplied to the\
+    \ construction workers on Das Island but the postal service was administered via\
+    \ the agency office in Bahrain. The mail was also postmarked Bahrain so there\
+    \ was no clear indication that a letter had come from Das Island. On 30 March\
+    \ 1963, a British agency was opened in Abu Dhabi and issued the agency stamps\
+    \ after the sheik objected to the use of the Trucial States definitives. Mail\
+    \ from Das Island continued to be administered by Bahrain but was now cancelled\
+    \ by an Abu Dhabi Trucial States postmark. The first Abu Dhabi stamps were a definitive\
+    \ series of 30 March 1964 depicting Shaikh Shakhbut Bin-Sultan Al Nahyan. There\
+    \ were eleven values under the Indian currency that was used of 100 naye paise\
+    \ = 1 rupee. The range of values was 5 np to 10 rupees. Despite the introduction\
+    \ of these definitives, the British agency stamps remained valid in both Abu Dhabi\
+    \ and Das Island until the end of 1966 when they were withdrawn. A post office\
+    \ was opened on Das Island on 6 January 1966 and this ended the Bahrain service.\
+    \ Mail from Das Island was now handled within Abu Dhabi. When the treaty with\
+    \ Great Britain expired at the end of 1966, Abu Dhabi introduced a new currency\
+    \ of 1000 fils = 1 dinar and took over its own postal administration, including\
+    \ the Das Island office. The earlier issues were subject to surcharges in this\
+    \ currency and replacement definitives were released depicting the new ruler Shaikh\
+    \ Zaid. Issues continued until introduction of UAE stamps in 1973. In all, Abu\
+    \ Dhabi issued 95 stamps from 1964 to 1972, the final set being three views of\
+    \ the Dome of the Rock in Jerusalem. '''Source''': [http://www.jl.sl.btinternet.co.uk/stampsite/alpha/a/abudhabi.html\
+    \ Encyclopaedia of Postal History] Sunny/blue skies can be expected through-out\
+    \ the year. The months June through September are generally hot and humid with\
+    \ temperatures averaging above 40\xBAC(110\xBAF)."
+  max_new_tokens: 320
+  source: enwiki9
+  chunk_id: 40
+- prompt_id: 41
+  prompt: The weather is usually pleasant from October to May. January to February
+    is cooler and may require the use of a light jacket. The oasis city of Al Ain
+    enjoys cooler temperatures even through summer due to sporadic rainfall. Abu Dhabi
+    International Airport serves this city. The local time is GMT + 4 hours.
+  generated_text: '* The cartoon cat Garfield would often put the kitten Nermal in
+    a box and ship him to Abu Dhabi. A common phrase from Garfield is &quot;Abu Dhabi
+    is where all the cute kittens go.&quot; The reason is that the author of Garfield
+    found out through over-seas relations that the city of Abu Dhabi, and the majority
+    of UAE, has a large amount of cats that roam wild. Many live around the suburbs.
+    * Mina'' Zayid, the port of Abu Dhabi. * Transportation in the United Arab Emirates
+    * [http://www.jl.sl.btinternet.co.uk/stampsite/alpha/a/abudhabi.html Encyclopaedia
+    of Postal History] * [http://www.thepersiangulf.org/cities/abudhabi.html Abu Dhabi,
+    The Persian Gulf] * [http://www.abudhabi.com/ abudhabi.com] * [http://www.adcci-uae.com/
+    Abu Dhabi Chamber of Commerce and Industry] * [http://www.adnoc.com/ Abu Dhabi
+    National Oil Company] * [http://www.spe.org/society/abudhabi/AbuDhabi-info.htm
+    SPE history, with oil details] * [http://www.angelfire.com/ok/ABUDHABISTAMPS/
+    Abu Dhabi postal history] * [http://www.adias-uae.com ADIAS], Abu Dhabi Islands
+    Archaeological Survey * [http://www.alloexpat.com/abu_dhabi_expat_forum/ Expatriates
+    Forums in Abu Dhabi] * [http://www.timeoutabudhabi.com/ Time Out Abu Dhabi], Guide
+    to life in Abu Dhabi *[http://www.careeruae.net/ Career UAE - Useful web site
+    for the job seekers in Abu dabi/United Arab Emirates] ===Non-Government Organisations===
+    * [http://www.ansarburney.org/ Ansar Burney Trust] - human rights and anti-slavery
+    organisation gl:Emirato de Abu Dabi #REDIRECT Abbreviation No edit; Are all the
+    subpages moved to &amp;quot;Atlas shrugged&amp;quot; (with space)? If they are,
+    the old ones should be deleted (see orphans)!'
+  max_new_tokens: 218
+  source: enwiki9
+  chunk_id: 41
+- prompt_id: 42
+  prompt: '#REDIRECT Atlas Shrugged #REDIRECT Constructed language AtlasShruggedCharacters
+    #REDIRECT Characters in Atlas Shrugged #REDIRECT Characters in Atlas Shrugged
+    AtlasShruggedCompanies #REDIRECT Companies in Atlas Shrugged AyersMusicPublishingCompany
+    #REDIRECT Companies in Atlas Shrugged #REDIRECT Companies in Atlas Shrugged #REDIRECT
+    Places in Atlas Shrugged #REDIRECT Things in Atlas Shrugged #REDIRECT Things in
+    Atlas Shrugged AfricanAmericanPeople Robot: Fixing double redirect #REDIRECT African
+    American #REDIRECT Adolf Hitler #REDIRECT Abdominal surgery #REDIRECT Abecedarian
+    fix double redirect -'
+  generated_text: 'click here to help #REDIRECT Cain and Abel #REDIRECT Aberdeen,
+    South Dakota #REDIRECT Arthur Koestler #REDIRECT Alexander the Great #REDIRECT
+    Anchorage, Alaska #redirect Argument form #redirect Argument form ArgumentsForTheExistenceOfGod
+    #REDIRECT Existence of God APrioriAndAPosteriorKnowledge #REDIRECT Andre Agassi
+    #REDIRECT Academy Awards AcademyAwards/BestPicture #REDIRECT Academy Award for
+    Best Picture Why are people too lazy to fix dbl redirs when they move a page?
+    #REDIRECT Austrian German #REDIRECT Academic elitism #REDIRECT Axiom of choice
+    #REDIRECT American football #REDIRECT Anna Kournikova #REDIRECT History of Andorra
+    #REDIRECT Demographics of Andorra #REDIRECT Politics of Andorra #REDIRECT Politics
+    of Andorra #REDIRECT Economy of Andorra #REDIRECT Economy of Andorra AustroAsiaticLanguages
+    Please help out by clicking here to fix someone else''s Wiki Syntax #REDIRECT
+    Austro-Asiatic languages bypassing double redirect #REDIRECT List of female movie
+    actors Revert to revision 41533857 using popups The letter ''''''A'''''' is the
+    first letter in the Latin alphabet. Its name in English is ''''a'''', plural ''''aes,''''
+    ''''a''s,'''' or ''''as''''. The letter A probably started as a pictogram of an
+    ox head in Egyptian hieroglyphs or the Proto-semitic alphabet. {| align=&quot;center&quot;
+    cellspacing=&quot;10&quot; |- align=&quot;center&quot; |&lt;br /&gt;Egyptian hieroglyph&lt;br
+    /&gt;ox head |&lt;br /&gt;Proto-semitic&lt;br /&gt;ox head |&lt;br /&gt;Phoenician
+    ''''aleph'''' |&lt;br /&gt;Greek ''''alpha'''' |&lt;br /&gt;Etruscan A By 1600
+    BC, the Phoenician alphabet''s letter had a linear form that served as the basis
+    for all later forms. Its name must have corresponded closely to the Hebrew aleph.
+    The name is also similar to the Arabic alif. When the Ancient Greeks adopted the
+    alphabet, they had no use for the glottal stop that the letter had denoted in
+    Phoenician and other Semitic languages, so they used the sign for the vowel ,
+    and changed its name to alpha.'
+  max_new_tokens: 276
+  source: enwiki9
+  chunk_id: 42
+- prompt_id: 43
+  prompt: In the earliest Greek inscriptions, dating to the 8th century BC, the letter
+    rests upon its side, but in the Greek alphabet of later times it generally resembles
+    the modern capital letter, although many local varieties can be distinguished
+    by the shortening of one leg, or by the angle at which the cross line is set.
+    The Etruscans brought the Greek alphabet to what was Italy and left the letter
+    unchanged. The Romans later adopted
+  generated_text: the Etruscan alphabet to write Latin, and the resulting letter was
+    preserved in the modern Latin alphabet used to write many languages, including
+    English. The letter has two minuscule (lower-case) forms. The form used in most
+    current handwriting consists of a circle and vertical stroke. Most printed material
+    uses a form consisting of a small loop with an arc over it. Both derive from the
+    majuscule (capital) form. In Greek handwriting, it was common to join the left
+    leg and horizontal stroke into a single loop, as demonstrated by the Uncial version
+    below. Many fonts then made the right leg vertical. In some of these, the serif
+    that began the right leg stroke developed into an arc, resulting in the printed
+    form, while in others it was dropped, resulting in the modern handwritten form.
+    {| align=&quot;center&quot; cellspacing=&quot;10&quot; |- align=&quot;center&quot;
+    |&lt;br /&gt;Blackletter A |&lt;br /&gt;Uncial A |- align=&quot;center&quot; |&lt;br
+    /&gt;Modern Roman A |&lt;br /&gt;Modern Italic A |&lt;br /&gt;Modern Script A
+    In English, the letter A by itself usually denotes the lax open front unrounded
+    vowel () as in ''pad'', the open back unrounded vowel () as in ''father'', or,
+    in concert with a later orthographic e, the diphthong (though the pronunciation
+    varies with the dialect) as in ''ace'', due to effects of the Great vowel shift.
+    In most other languages that use the Latin alphabet, the letter A denotes either
+    an open back unrounded vowel (), or an open central unrounded vowel (). In the
+    International Phonetic Alphabet, variants of the letter A denote various vowels.
+    In X-SAMPA, capital A denotes the open back unrounded vowel and lowercase a denotes
+    the open front unrounded vowel. A also is the English indefinite article, extended
+    to an before a vowel. ==Codes for computing== In Unicode the capital A is codepoint
+    U+0041 and the lowercase a is U+0061.
+  max_new_tokens: 304
+  source: enwiki9
+  chunk_id: 43
+- prompt_id: 44
+  prompt: In Hex, A is the character used to represent decimal 10, or in binary, 01010
+    The ASCII code for capital A is 65 and for lowercase a is 97; or in binary 01000001
+    and 01100001, correspondingly. The EBCDIC code for capital A is 193 and for lowercase
+    a is 129. The numeric character references in HTML and XML are &quot;&lt;tt&gt;&amp;amp;#65;&lt;/tt&gt;&quot;
+    and &quot;&lt;tt&gt;&amp;amp;#97;&lt;/tt&gt;&quot; for upper and lower case respectively.
+    ==Meanings for '''A'''== * As a word; see A, an
+  generated_text: '* In American Major League Baseball, the Oakland Athletics are
+    often simply referred to as the &quot;''''''A''s''''''.&quot; ** A stands for
+    a January 1 through 15 discovery, in the provisional designation of a comet (e.g.
+    C/1760 A1, the Great Comet of 1760) or asteroid (e.g. ) ** ''''a'''' is often
+    used to denote the semi-major axis of an orbit * In biochemistry, A is the symbol
+    for alanine and adenosine. * Brassiere cup size ''''''A'''''' * In calendars,
+    A is often an abbreviation for the months April and August. ** &lt;tt&gt;&amp;lt;a&amp;gt;&lt;/tt&gt;
+    is the HTML element for an anchor tag. ** In Windows, Ctrl-A, and Mac OS, Command-A,
+    selects all the text in the document, or all the pixels of an image. ** A sometimes
+    represents the set of all alphabetic characters within string patterns. ** A:\
+    is the conventional address of the first floppy disk drive in CP/M-based operating
+    systems such as DOS. ** A is a security division (&quot;Verified Protection&quot;)
+    in the TCSEC. * In education, a grade of ''''''A'''''' typically represents the
+    highest score that students can achieve. This is sometimes coupled with a plus/minus
+    sign, as in ''''''A+'''''' or ''''''A-'''''', or a number, as in ''''''A1''''''.
+    It is occasionally a grade one level below ''''''A*'''''' (pronounced &quot;A
+    Star&quot;). ** A is a standard size of battery. ** A refers to the Anode, or
+    filament, component of a vacuum tube. * In English, the word ''''a'''' is an indefinite
+    article, see A, an * In Esperanto, -a is the adjectival/attributive ending; A
+    is commonly an abbreviation meaning English (language). * In fiction, the letter
+    worn by Hester Prynne marking her as an adultress in the Nathaniel Hawthorne novel
+    ''''The Scarlet Letter'''' was an ''''A''''. * In film, ''''A'''' is an Italian
+    film made in 1969; see ''''A (film)''''. * In finance, A is the U.S. ticker symbol
+    for Agilent Technologies.'
+  max_new_tokens: 312
+  source: enwiki9
+  chunk_id: 44
+- prompt_id: 45
+  prompt: '* In games, the letter A is used to mark each of the Aces in a deck of
+    playing cards. * In Greek, a- is a prefix (''''alpha privativum'''') meaning &quot;not&quot;
+    or &quot;devoid of,&quot; used in many borrowed words in English, German and Romance
+    languages. * In India ''''A'''' is movie rating, given to those intended to be
+    seen only by adults. * In international licence plate codes, A stands for Austria.
+    * In international paper sizes, A'
+  generated_text: is a series of sizes with an aspect ratio of roughly 70% width to
+    height, with A4 being an example popular size. **the letter A is used as a symbol
+    for the universal affirmative proposition in the general form &quot;all x is y.&quot;
+    The letters I, E, and O are used respectively for the particular affirmative &quot;some
+    x is y,&quot; the universal negative &quot;no x is y,&quot; and the particular
+    negative &quot;some x is not y.&quot; The use of these letters is generally derived
+    from the vowels of the two Latin verbs ''affirmo'' (or AIo), &quot;I assert,&quot;
+    and ''nego'', &quot;I deny.&quot; The use of the symbols dates from the 13th century,
+    though some authorities trace their origin to the Greek logicians. **In symbolic
+    logic, the symbol &amp;forall; (an inverted letter A) is the universal quantifier.
+    **A is often used as a digit meaning ''ten'' in hexadecimal and other positional
+    numeral systems with a radix of 11 or greater, **blackboard bold &lt;math&gt;\mathbb{A}&lt;/math&gt;
+    (&amp;#x1D504; in Unicode) sometimes represents the algebraic numbers. **In the
+    On-Line Encyclopedia of Integer Sequences, each sequence has an ID consisting
+    of the letter A and six base 10 digits. * In medicine, '''A''' (also, '''A+'''
+    or '''A-''') is one of the human blood types. ** A is a Pitch class or note, see
+    A (musical note). ** A, or &quot;side A,&quot; refers to the top or first side
+    of a vinyl record. ** ''A'' is a British rock band; see ''A (band)''. ** ''A''
+    is an album by Jethro Tull; see ''A (album)''. * In nutrition, A is a vitamin.
+    * In photography, most SLR cameras use A to signify aperture priority mode, where
+    the user sets the aperture and the camera determines the shutter speed. * In poetry,
+    A is the major work of influential 20th century author Louis Zukofsky. * In political
+    theory, a circumscribed &quot;A&quot; is an anarchist symbol.
+  max_new_tokens: 314
+  source: enwiki9
+  chunk_id: 45
+- prompt_id: 46
+  prompt: '* As the first letter of a postal code, ** In Canada, A stands for Newfoundland
+    and Labrador. * On the serial numbers of United States dollars, A identifies the
+    Federal Reserve Bank of Boston. * In the SI system of units, ** A is the symbol
+    for the ampere or amp, the SI base unit of electric current. ** a, atto, is the
+    SI prefix meaning 10&lt;sup&gt;-18&lt;/sup&gt; ** a is the symbol for the are,
+    a unit'
+  generated_text: "of surface area equal to 100 square metres. * As a timezone, A\
+    \ is the military designation for Coordinated Universal Time+1, also known as\
+    \ CET or Central European Time. * &lt;big&gt;\xAA&lt;/big&gt; &lt;br clear=&quot;all&quot;\
+    \ /&gt; #REDIRECT Anarcho-capitalism #REDIRECT anarcho-capitalism #REDIRECT anarcho-capitalism\
+    \ #REDIRECT List of female movie actors AnarchisM/AnarchyTalk #REDIRECT talk:Anarchism\
+    \ #REDIRECT talk:Anarchism #REDIRECT An American in Paris #REDIRECT Automorphism\
+    \ #REDIRECT Action movie /* Political Climate */ &lt;div style=&quot;float:right;\
+    \ clear:right; width:300px; margin-left: 1em;&quot;&gt; thumb|center|250px|Alabama\
+    \ Cities and Urban Areas/Sprawl {| cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;\
+    \ style=&quot;float:right; clear:right; width:300px; margin:0 0 1em 1em;&quot;\
+    \ class=&quot;toccolours&quot; |'''State motto'''||''Audemus jura nostra defendere''\
+    \ |'''State bird'''||Yellowhammer |'''State flower'''||Camellia |'''State song'''||&quot;Alabama&quot;\
+    \ |'''State tree'''||Longleaf Pine |'''State spirit'''||Conecuh Ridge |'''State\
+    \ reptile'''||Red-bellied turtle '''Alabama''' is a state located in the Southern\
+    \ United States. ''Main article: History of Alabama'' The memory of the Native\
+    \ American presence is particularly strong in Alabama. Among Native American people\
+    \ once living in present Alabama were Alabama (Alibamu), Cherokee, Chickasaw,\
+    \ Choctaw, Creek, Koasati, and Mobile. Trade with the Northeast via the Ohio River\
+    \ began during the Burial Mound Period (1000 BC-A.D. 700) and continued until\
+    \ European contact. Meso-American influence is evident in the agrarian Mississippian\
+    \ culture that followed. The French established the first European settlement\
+    \ in the state with the establishment of Mobile in 1702. Southern Alabama was\
+    \ French from 1702&amp;ndash;1763, part of British West Florida from 1763&amp;ndash;1780,\
+    \ and part of Spanish West Florida from 1780&amp;ndash;1814. Northern and central\
+    \ Alabama was part of British Georgia from 1763&amp;ndash;1783 and part of the\
+    \ American Mississippi territory thereafter. Its statehood delayed by the lack\
+    \ of a coastline (rectified when Andrew Jackson captured Spanish Mobile in 1814),\
+    \ Alabama became the 22nd state in 1819. The state of Alabama seceded from the\
+    \ Union on January 11, 1861 and became the Alabama Republic and on February 18\
+    \ 1861 became a Confederate state. While not many battles were fought in the state,\
+    \ it contributed about 120,000 soldiers to the Civil War."
+  max_new_tokens: 312
+  source: enwiki9
+  chunk_id: 46
+- prompt_id: 47
+  prompt: 'After the war a provisional government was set up in 1865 and Alabama was
+    officially readmitted to the Union on July 14 1868. The cradle of the Confederacy
+    during the Civil War, Alabama was at stage center in the civil rights movement
+    of the 1950s and 1960s. ==Law and government== ''''Main article: Law and Government
+    of Alabama'''' ===Local &amp; County Government=== Alabama has 67 counties, each
+    having its own elected legislative branch, usually called the Board of Commissioners,'
+  generated_text: which usually also has executive authority in the county. Due to
+    the restraints placed in the Alabama Constitution, all but 7 counties (Jefferson,
+    Lee, Mobile, Madison, Montgomery, Shelby, and Tuscaloosa) in the state have little
+    to no home rule. Instead, most counties in the state have to lobby to the Local
+    Legislation Committee the state legislature to get simple local policies such
+    as waste disposal to land use zoning. Alabama is an alcohol monopoly or Alcoholic
+    beverage control state. ===Political Climate=== The current governor of the state
+    is Bob Riley and the two U.S. senators are Jefferson B. Sessions III and Richard
+    C. Shelby (all three from the Republican Party). The current Alabama Constitution
+    was adopted in 1901. During Reconstruction following the American Civil War, Alabama
+    was occupied by federal troops of the Third Military District under General John
+    Pope. In 1877, the Reconstruction period ended with the recognition of Rutherford
+    B. Hayes as President-elect. White Southerners assumed control of the government
+    and passed laws to segregate and disenfranchise black residents. The state became
+    part of the &quot;Solid South,&quot; a one-party system in which the Democratic
+    Party became essentially the only political party in every Southern state. For
+    nearly 100 years, local and state elections in Alabama were decided in the Democratic
+    Party primary, with generally no Republican challenger running. From 1876 through
+    1956, Alabama supported only Democratic presidential candidates, by margins as
+    high as 73 percentage points. In 1960, Alabama gave most of its electoral votes
+    to Harry F. Byrd as a protest. In 1964, the national Republican Party began to
+    win more votes in the South by following a &quot;Southern Strategy&quot; which
+    emphasized &quot;states' rights&quot; and the increasing liberalism of the national
+    Democratic Party. The first such candidate was conservative Barry Goldwater, who
+    became the first Republican candidate supported by Alabama. In 1968, Alabama supported
+    native son and American Independent Party candidate George Wallace.
+  max_new_tokens: 316
+  source: enwiki9
+  chunk_id: 47
+- prompt_id: 48
+  prompt: The last Democratic candidate to win Alabama's votes in a presidential election
+    was Southerner Jimmy Carter in 1976. Today, the Republican party has become increasingly
+    dominant in conservative Alabama politics. However, in local politics, Democrats
+    still control many offices, including majorities in both houses of the Legislature,
+    and registered Democrats outnumber Republicans in the state. In 2004, George W.
+    Bush won Alabama's nine electoral votes by a margin of 25 percentage points with
+    62.5% of the vote. The only 11
+  generated_text: 'counties voting Democratic were Black Belt counties, where African
+    Americans are in the majority. Alabama is located in the Bible Belt, and its educational
+    policies reflect this. According to the Alan Guttmacher Institute, Alabama requires
+    sex education classes to emphasize &quot;that homosexuality is not an acceptable
+    lifestyle to the general public and that homosexual conduct is a criminal offense
+    under the laws of the state.&quot; While the mandate is not typically enforced
+    in Alabama classrooms, it is unclear whether or not the official requirements
+    have changed since the Supreme Court''s ruling in Lawrence v. Texas. According
+    to the United States Census Bureau, in 2000, Alabama was home to 4,561 same-sex
+    male couples and 4,167 same-sex female couples. *U.S. presidential election, 2004,
+    in Alabama ''''Main article: Geography of Alabama'''' Alabama is the 30&lt;sup&gt;th&lt;/sup&gt;
+    largest state in the United States with 135,775 km&lt;sup&gt;2&lt;/sup&gt; (52,423
+    mi&lt;sup&gt;2&lt;/sup&gt;) of total area. 3.19% of that is water, making Alabama
+    23&lt;sup&gt;rd&lt;/sup&gt; in the amount of surface water, also giving it the
+    second largest inland waterway system in the United States. About three-fifths
+    of the land area is a gentle plain with a general incline towards the Mississippi
+    River and the Gulf of Mexico. The North Alabama region is mostly mountainous,
+    with the Tennessee River cutting a large valley creating numerous creeks, streams,
+    rivers, mountains, and lakes. The lowest point east of the Mississippi River lies
+    in Dekalb County along a creek cutting tower ridges, and creating Buck''s Pocket
+    State Park. Another natural wonder is &quot;Land Bridge&quot; the longest natural
+    bridge span east of the Mississippi River. Alabama generally ranges in elevation
+    from sea level at Mobile Bay, to a little more than 1800 feet or 550 meters in
+    the Appalachian mountains in the northeast. The highest point is Mount Cheaha.
+    According to the Bureau of Economic Analysis, the 2003 total gross state product
+    was $132 billion. The per capita income for the state was $26,505 in 2003.'
+  max_new_tokens: 320
+  source: enwiki9
+  chunk_id: 48
+- prompt_id: 49
+  prompt: Alabama's agricultural outputs include poultry and eggs, cattle, plant nursery
+    items, peanuts, cotton, grains such as corn and sorgum, vegetables, milk, soybeans,
+    and peaches. Even though neighboring Georgia is called the Peach State, Alabama
+    produces twice as many peaches annually. Its industrial outputs include iron and
+    steel products, including cast-iron and steel pipe, paper, lumber, and wood products,
+    mining (mostly coal), and plastic products, cars and trucks, and apparel. Also,
+    Alabama produces aerospace and electronic products, mostly
+  generated_text: 'in the Huntsville area, home of the NASA George C. Marshall Space
+    Flight Center and the US Army Missile Command, headquartered at Redstone Arsenal.
+    Also, the city of Mobile is a busy seaport on the Gulf of Mexico, and with inland
+    waterway access to the Midwest via the Tennessee-Tombigbee Waterway. {| class=&quot;toccolours&quot;
+    align=&quot;right&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin:0
+    0 1em 1em; font-size: 95%;&quot; ! colspan=2 bgcolor=&quot;#ccccff&quot; align=&quot;center&quot;|
+    Historical populations ! align=&quot;center&quot;| Census&lt;br&gt;year !! align=&quot;right&quot;|
+    Population | colspan=2|&lt;hr&gt; | align=&quot;center&quot;| 1800 || align=&quot;right&quot;|
+    1,250 | align=&quot;center&quot;| 1810 || align=&quot;right&quot;| 9,046 | align=&quot;center&quot;|
+    1820 || align=&quot;right&quot;| 127,901 | align=&quot;center&quot;| 1830 || align=&quot;right&quot;|
+    309,527 | align=&quot;center&quot;| 1840 || align=&quot;right&quot;| 590,756 |
+    align=&quot;center&quot;| 1850 || align=&quot;right&quot;| 771,623 | align=&quot;center&quot;|
+    1860 || align=&quot;right&quot;| 964,201 | align=&quot;center&quot;| 1870 || align=&quot;right&quot;|
+    996,992 | align=&quot;center&quot;| 1880 || align=&quot;right&quot;| 1,262,505
+    | align=&quot;center&quot;| 1890 || align=&quot;right&quot;| 1,513,401 | align=&quot;center&quot;|
+    1900 || align=&quot;right&quot;| 1,828,697 | align=&quot;center&quot;| 1910 ||
+    align=&quot;right&quot;| 2,138,093 | align=&quot;center&quot;| 1920 || align=&quot;right&quot;|
+    2,348,174 | align=&quot;center&quot;| 1930 || align=&quot;right&quot;| 2,646,248
+    | align=&quot;center&quot;| 1940 || align=&quot;right&quot;| 2,832,961 | align=&quot;center&quot;|
+    1950 || align=&quot;right&quot;| 3,061,743 | align=&quot;center&quot;| 1960 ||
+    align=&quot;right&quot;| 3,266,740 | align=&quot;center&quot;| 1970 || align=&quot;right&quot;|
+    3,444,165 | align=&quot;center&quot;| 1980 || align=&quot;right&quot;| 3,893,888
+    | align=&quot;center&quot;| 1990 || align=&quot;right&quot;| 4,040,587 | align=&quot;center&quot;|
+    2000 || align=&quot;right&quot;| 4,447,100 As of 2005, Alabama has an estimated
+    population of 4,557,808, which is an increase of 32,433, or 0.7%, from the prior
+    year and an increase of 110,457, or 2.5%, since the year 2000. This includes a
+    natural increase since the last census of 77,418 people (that is 319,544 births
+    minus 242,126 deaths) and an increase due to net migration of 36,457 people into
+    the state. Immigration from outside the United States resulted in a net increase
+    of 25,936 people, and migration within the country produced a net increase of
+    10,521 people. The state had 108,000 foreign-born (2.4% of the state population),
+    of which an estimated 22.2% were illegal aliens (24,000).'
+  max_new_tokens: 311
+  source: enwiki9
+  chunk_id: 49
